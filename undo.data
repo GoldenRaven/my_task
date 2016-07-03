@@ -1365,3 +1365,10 @@ time 1466752347
 old [description:"rho^n1,中n1的范围应该是多少？&open;n0,N_max&close;?还是&open;n0,N_max+1&close;?" entry:"1465542540" project:"NRG" status:"pending" uuid:"407a04f0-84f4-4916-94b4-cb7aed657d4f"]
 new [description:"rho^n1,中n1的范围应该是多少？&open;n0,N_max&close;?还是&open;n0,N_max+1&close;?" end:"1466752347" entry:"1465542540" modified:"1466752347" project:"NRG" status:"completed" uuid:"407a04f0-84f4-4916-94b4-cb7aed657d4f"]
 ---
+time 1466755186
+old [description:"精确对角化验证N=4子空间, 1 -0---0, 三个点的H. project:NRG" entry:"1466752199" modified:"1466752320" project:"NRG" status:"pending" uuid:"135b460a-7588-4392-99d0-6a47a91af6a5"]
+new [description:"精确对角化验证N=4子空间, 1---0---0, 三个点的H <---> U-6-512" entry:"1466752199" modified:"1466755186" project:"NRG" status:"pending" uuid:"135b460a-7588-4392-99d0-6a47a91af6a5"]
+---
+time 1467528541
+new [description:"test" entry:"1467528541" project:"note" status:"pending" uuid:"9a59d11a-26b1-4840-9d1c-a1c341f4d5e4"]
+---
