@@ -10,6 +10,5 @@
 [depends:"cc2ef961-30e9-4956-8db7-696212feb00c,424c7827-55ce-4c93-87b7-64df69c3af52,85d0c6f2-7a2b-461c-8e17-e0087c3a2b0b,e1dbede1-7ee5-48f5-84cc-ee6d049468fc,d65138cc-f7c8-496a-bab5-15ead76688de,135b460a-7588-4392-99d0-6a47a91af6a5,ae09860a-1168-49b3-9821-44e5f6220f4b" description:"优化程序结构等各方面．" entry:"1464180169" modified:"1466752290" project:"NRG" status:"pending" uuid:"680dacd7-af14-4b7f-ae2d-dd75f0e1a503"]
 [description:"带边缘f=0.999处反而很大，A(0.999)=0.27,为什么？" entry:"1464226868" modified:"1464226951" project:"NRG" status:"pending" uuid:"85d0c6f2-7a2b-461c-8e17-e0087c3a2b0b"]
 [description:"优化计算约化密度矩阵时的重复计算,可以大幅度减少计算时间." entry:"1466567306" project:"NRG" status:"pending" uuid:"d65138cc-f7c8-496a-bab5-15ead76688de"]
-[description:"精确对角化验证N=4子空间, 1---0---0, 三个点的H <---> U-6-512" entry:"1466752199" modified:"1466755186" project:"NRG" status:"pending" uuid:"135b460a-7588-4392-99d0-6a47a91af6a5"]
 [description:"给程序增加输入文件." entry:"1466752253" project:"NRG" status:"pending" uuid:"ae09860a-1168-49b3-9821-44e5f6220f4b"]
 [description:"test" entry:"1467528541" project:"note" status:"pending" uuid:"9a59d11a-26b1-4840-9d1c-a1c341f4d5e4"]

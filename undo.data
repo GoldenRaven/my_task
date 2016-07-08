@@ -1372,3 +1372,7 @@ new [description:"精确对角化验证N=4子空间, 1---0---0, 三个点的H <-
 time 1467528541
 new [description:"test" entry:"1467528541" project:"note" status:"pending" uuid:"9a59d11a-26b1-4840-9d1c-a1c341f4d5e4"]
 ---
+time 1467963914
+old [description:"精确对角化验证N=4子空间, 1---0---0, 三个点的H <---> U-6-512" entry:"1466752199" modified:"1466755186" project:"NRG" status:"pending" uuid:"135b460a-7588-4392-99d0-6a47a91af6a5"]
+new [description:"精确对角化验证N=4子空间, 1---0---0, 三个点的H <---> U-6-512" end:"1467963914" entry:"1466752199" modified:"1467963914" project:"NRG" status:"completed" uuid:"135b460a-7588-4392-99d0-6a47a91af6a5"]
+---
