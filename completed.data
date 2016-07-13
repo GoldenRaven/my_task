@@ -1,3 +1,4 @@
+[description:"买从北京回来的票" due:"1468425600" end:"1468400646" entry:"1468397493" modified:"1468400646" project:"note" status:"completed" uuid:"52c77445-12d0-4b18-b7f6-45620f0bc573"]
 [description:"test" end:"1467964108" entry:"1467528541" modified:"1467964111" project:"note" status:"deleted" uuid:"9a59d11a-26b1-4840-9d1c-a1c341f4d5e4"]
 [description:"精确对角化验证N=4子空间, 1---0---0, 三个点的H <---> U-6-512" end:"1467963914" entry:"1466752199" modified:"1467963914" project:"NRG" status:"completed" uuid:"135b460a-7588-4392-99d0-6a47a91af6a5"]
 [description:"rho^n1,中n1的范围应该是多少？&open;n0,N_max&close;?还是&open;n0,N_max+1&close;?" end:"1466752347" entry:"1465542540" modified:"1466752347" project:"NRG" status:"completed" uuid:"407a04f0-84f4-4916-94b4-cb7aed657d4f"]

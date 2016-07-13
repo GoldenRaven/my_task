@@ -1387,3 +1387,17 @@ time 1467987324
 old [depends:"cc2ef961-30e9-4956-8db7-696212feb00c,424c7827-55ce-4c93-87b7-64df69c3af52,85d0c6f2-7a2b-461c-8e17-e0087c3a2b0b,e1dbede1-7ee5-48f5-84cc-ee6d049468fc,d65138cc-f7c8-496a-bab5-15ead76688de,135b460a-7588-4392-99d0-6a47a91af6a5,ae09860a-1168-49b3-9821-44e5f6220f4b" description:"优化程序结构等各方面．" entry:"1464180169" modified:"1466752290" project:"NRG" status:"pending" uuid:"680dacd7-af14-4b7f-ae2d-dd75f0e1a503"]
 new [depends:"cc2ef961-30e9-4956-8db7-696212feb00c,424c7827-55ce-4c93-87b7-64df69c3af52,85d0c6f2-7a2b-461c-8e17-e0087c3a2b0b,e1dbede1-7ee5-48f5-84cc-ee6d049468fc,d65138cc-f7c8-496a-bab5-15ead76688de,135b460a-7588-4392-99d0-6a47a91af6a5,ae09860a-1168-49b3-9821-44e5f6220f4b,a16f7164-ca04-4b5e-bcbb-f407e293b136" description:"优化程序结构等各方面．" entry:"1464180169" modified:"1467987324" project:"NRG" status:"pending" uuid:"680dacd7-af14-4b7f-ae2d-dd75f0e1a503"]
 ---
+time 1468397493
+new [description:"买从北京回来的票" due:"1468425600" entry:"1468397493" project:"note" status:"pending" uuid:"52c77445-12d0-4b18-b7f6-45620f0bc573"]
+---
+time 1468400583
+new [description:"取火车票" due:"1468425600" entry:"1468400583" project:"note" status:"pending" uuid:"b298ed18-b654-4eba-976c-5664973e5e18"]
+---
+time 1468400627
+old [description:"取火车票" due:"1468425600" entry:"1468400583" project:"note" status:"pending" uuid:"b298ed18-b654-4eba-976c-5664973e5e18"]
+new [description:"取火车票" due:"1469775600" entry:"1468400583" modified:"1468400627" project:"note" status:"pending" uuid:"b298ed18-b654-4eba-976c-5664973e5e18"]
+---
+time 1468400646
+old [description:"买从北京回来的票" due:"1468425600" entry:"1468397493" project:"note" status:"pending" uuid:"52c77445-12d0-4b18-b7f6-45620f0bc573"]
+new [description:"买从北京回来的票" due:"1468425600" end:"1468400646" entry:"1468397493" modified:"1468400646" project:"note" status:"completed" uuid:"52c77445-12d0-4b18-b7f6-45620f0bc573"]
+---
