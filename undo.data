@@ -1401,3 +1401,36 @@ time 1468400646
 old [description:"买从北京回来的票" due:"1468425600" entry:"1468397493" project:"note" status:"pending" uuid:"52c77445-12d0-4b18-b7f6-45620f0bc573"]
 new [description:"买从北京回来的票" due:"1468425600" end:"1468400646" entry:"1468397493" modified:"1468400646" project:"note" status:"completed" uuid:"52c77445-12d0-4b18-b7f6-45620f0bc573"]
 ---
+time 1468468023
+new [description:"问老师对角化能量对比，能量能算对吗？" entry:"1468468023" project:"NRG" status:"pending" uuid:"7e599e7a-d9c0-493a-8304-1e654d01bfd6"]
+---
+time 1468523703
+new [description:"真实能量加上基态能量，加好量子数，一个好量子数的Aw?" entry:"1468523703" project:"NRG" status:"pending" uuid:"ec9f311f-1d4f-41dd-80d9-6e5f84deb146"]
+---
+time 1468523889
+old [description:"真实能量加上基态能量，加好量子数，一个好量子数的Aw?" entry:"1468523703" project:"NRG" status:"pending" uuid:"ec9f311f-1d4f-41dd-80d9-6e5f84deb146"]
+new [description:"真实能量加上基态能量，加好量子数，一个好量子数的Aw? 真实能量应该收敛?" entry:"1468523703" modified:"1468523889" project:"NRG" status:"pending" uuid:"ec9f311f-1d4f-41dd-80d9-6e5f84deb146"]
+---
+time 1468527622
+new [description:"读取二进制文件" entry:"1468527622" project:"NRG" status:"pending" uuid:"7efb505f-4772-4f13-9df5-58a0abf845ed"]
+---
+time 1468603452
+new [description:"展宽函数对结果影响太大，理论上应该不变？" entry:"1468603452" project:"NRG" status:"pending" uuid:"9ecf09e6-2ec3-479a-bf39-9ea3606b4df0"]
+---
+time 1468753552
+new [description:"后面能量级的流图对不对得上？" entry:"1468753552" project:"NRG" status:"pending" uuid:"e8722db1-42fe-4517-8a8c-5a86c3736c99"]
+---
+time 1468754755
+old [description:"后面能量级的流图对不对得上？" entry:"1468753552" project:"NRG" status:"pending" uuid:"e8722db1-42fe-4517-8a8c-5a86c3736c99"]
+new [description:"后面能量级的流图对不对得上？" due:"1468771200" entry:"1468753552" modified:"1468754755" project:"NRG" status:"pending" uuid:"e8722db1-42fe-4517-8a8c-5a86c3736c99"]
+---
+time 1469212040
+old [description:"取火车票" due:"1469775600" entry:"1468400583" modified:"1468400627" project:"note" status:"pending" uuid:"b298ed18-b654-4eba-976c-5664973e5e18"]
+new [description:"取火车票" due:"1469775600" end:"1469212036" entry:"1468400583" modified:"1469212040" project:"note" status:"deleted" uuid:"b298ed18-b654-4eba-976c-5664973e5e18"]
+---
+time 1469212124
+new [description:"修改awesome菜单" entry:"1469212124" project:"awesome" status:"pending" tags:"linux" uuid:"db418c9c-3c89-4b4d-aa37-20fea9093647"]
+---
+time 1469241606
+new [description:"取羽毛球拍" due:"1469289600" entry:"1469241606" project:"note" status:"pending" uuid:"b69ffaf0-33c2-4731-b961-33ed29293457"]
+---
