@@ -1434,3 +1434,176 @@ new [description:"修改awesome菜单" entry:"1469212124" project:"awesome" stat
 time 1469241606
 new [description:"取羽毛球拍" due:"1469289600" entry:"1469241606" project:"note" status:"pending" uuid:"b69ffaf0-33c2-4731-b961-33ed29293457"]
 ---
+time 1470061575
+old [description:"后面能量级的流图对不对得上？" due:"1468771200" entry:"1468753552" modified:"1468754755" project:"NRG" status:"pending" uuid:"e8722db1-42fe-4517-8a8c-5a86c3736c99"]
+new [description:"后面能量级的流图对不对得上？" due:"1468771200" end:"1470061575" entry:"1468753552" modified:"1470061575" project:"NRG" status:"completed" uuid:"e8722db1-42fe-4517-8a8c-5a86c3736c99"]
+---
+time 1470061581
+old [description:"取羽毛球拍" due:"1469289600" entry:"1469241606" project:"note" status:"pending" uuid:"b69ffaf0-33c2-4731-b961-33ed29293457"]
+new [description:"取羽毛球拍" due:"1469289600" end:"1470061581" entry:"1469241606" modified:"1470061581" project:"note" status:"completed" uuid:"b69ffaf0-33c2-4731-b961-33ed29293457"]
+---
+time 1470061601
+old [description:"修改awesome菜单" entry:"1469212124" project:"awesome" status:"pending" tags:"linux" uuid:"db418c9c-3c89-4b4d-aa37-20fea9093647"]
+new [description:"修改awesome菜单" end:"1470061601" entry:"1469212124" modified:"1470061601" project:"awesome" status:"completed" tags:"linux" uuid:"db418c9c-3c89-4b4d-aa37-20fea9093647"]
+---
+time 1470061625
+old [description:"问老师对角化能量对比，能量能算对吗？" entry:"1468468023" project:"NRG" status:"pending" uuid:"7e599e7a-d9c0-493a-8304-1e654d01bfd6"]
+new [description:"问老师对角化能量对比，能量能算对吗？" end:"1470061625" entry:"1468468023" modified:"1470061625" project:"NRG" status:"completed" uuid:"7e599e7a-d9c0-493a-8304-1e654d01bfd6"]
+---
+time 1470061680
+old [description:"真实能量加上基态能量，加好量子数，一个好量子数的Aw? 真实能量应该收敛?" entry:"1468523703" modified:"1468523889" project:"NRG" status:"pending" uuid:"ec9f311f-1d4f-41dd-80d9-6e5f84deb146"]
+new [description:"真实能量加上基态能量，加好量子数，一个好量子数的Aw? 真实能量应该收敛?" end:"1470061680" entry:"1468523703" modified:"1470061680" project:"NRG" status:"completed" uuid:"ec9f311f-1d4f-41dd-80d9-6e5f84deb146"]
+---
+time 1470842968
+new [description:"重写约化密度矩阵。先设计算法，待逻辑清楚后再编程。" entry:"1470842968" project:"NRG" status:"pending" uuid:"60c6adc9-9aa7-43fc-bb42-f2f22ca571ed"]
+---
+time 1470843016
+old [description:"重写约化密度矩阵。先设计算法，待逻辑清楚后再编程。" entry:"1470842968" project:"NRG" status:"pending" uuid:"60c6adc9-9aa7-43fc-bb42-f2f22ca571ed"]
+new [description:"重写约化密度矩阵。先设计算法，待逻辑清楚后再编程。" due:"1470844800" entry:"1470842968" modified:"1470843016" project:"NRG" status:"pending" uuid:"60c6adc9-9aa7-43fc-bb42-f2f22ca571ed"]
+---
+time 1470843038
+old [description:"重写约化密度矩阵。先设计算法，待逻辑清楚后再编程。" due:"1470844800" entry:"1470842968" modified:"1470843016" project:"NRG" status:"pending" uuid:"60c6adc9-9aa7-43fc-bb42-f2f22ca571ed"]
+new [description:"重写约化密度矩阵。先设计算法，待逻辑清楚后再编程。" due:"1471015838" entry:"1470842968" modified:"1470843038" project:"NRG" status:"pending" uuid:"60c6adc9-9aa7-43fc-bb42-f2f22ca571ed"]
+---
+time 1470969463
+old [description:"重写约化密度矩阵。先设计算法，待逻辑清楚后再编程。" due:"1471015838" entry:"1470842968" modified:"1470843038" project:"NRG" status:"pending" uuid:"60c6adc9-9aa7-43fc-bb42-f2f22ca571ed"]
+new [description:"重写约化密度矩阵。先设计算法，待逻辑清楚后再编程。" due:"1471015838" end:"1470969463" entry:"1470842968" modified:"1470969463" project:"NRG" status:"completed" uuid:"60c6adc9-9aa7-43fc-bb42-f2f22ca571ed"]
+---
+time 1470969869
+new [description:"刪除c^{dag}_up, c^{dag}_down算符以減少內存佔用." entry:"1470969869" project:"NRG" status:"pending" uuid:"74fe4097-348b-412f-bb43-ffbf063d4d3a"]
+---
+time 1470969905
+old [depends:"cc2ef961-30e9-4956-8db7-696212feb00c,424c7827-55ce-4c93-87b7-64df69c3af52,85d0c6f2-7a2b-461c-8e17-e0087c3a2b0b,e1dbede1-7ee5-48f5-84cc-ee6d049468fc,d65138cc-f7c8-496a-bab5-15ead76688de,135b460a-7588-4392-99d0-6a47a91af6a5,ae09860a-1168-49b3-9821-44e5f6220f4b,a16f7164-ca04-4b5e-bcbb-f407e293b136" description:"优化程序结构等各方面．" entry:"1464180169" modified:"1467987324" project:"NRG" status:"pending" uuid:"680dacd7-af14-4b7f-ae2d-dd75f0e1a503"]
+new [depends:"cc2ef961-30e9-4956-8db7-696212feb00c,424c7827-55ce-4c93-87b7-64df69c3af52,85d0c6f2-7a2b-461c-8e17-e0087c3a2b0b,e1dbede1-7ee5-48f5-84cc-ee6d049468fc,d65138cc-f7c8-496a-bab5-15ead76688de,135b460a-7588-4392-99d0-6a47a91af6a5,ae09860a-1168-49b3-9821-44e5f6220f4b,a16f7164-ca04-4b5e-bcbb-f407e293b136,74fe4097-348b-412f-bb43-ffbf063d4d3a" description:"优化程序结构等各方面．" entry:"1464180169" modified:"1470969905" project:"NRG" status:"pending" uuid:"680dacd7-af14-4b7f-ae2d-dd75f0e1a503"]
+---
+time 1470970255
+old [description:"刪除c^{dag}_up, c^{dag}_down算符以減少內存佔用." entry:"1470969869" project:"NRG" status:"pending" uuid:"74fe4097-348b-412f-bb43-ffbf063d4d3a"]
+new [description:"刪除c^{dag}_up_basis, c^{dag}_down_basis,c^{dag}_up_eigen, c^{dag}_down_eigen算符以減少內存佔用." entry:"1470969869" modified:"1470970255" project:"NRG" status:"pending" uuid:"74fe4097-348b-412f-bb43-ffbf063d4d3a"]
+---
+time 1471193934
+new [description:"态密度的错误还在，说明不在密度矩阵里。" entry:"1471193934" project:"NRG" status:"pending" uuid:"5a589a20-9e79-47d8-80ca-4951ab2ecb7f"]
+---
+time 1471232099
+new [description:"检查谱函数里的A,B算符是否对得上？" entry:"1471232099" project:"NRG" status:"pending" uuid:"961c1e41-43d0-4e53-b97d-182e0ec5afec"]
+---
+time 1471404538
+old [description:"检查谱函数里的A,B算符是否对得上？" entry:"1471232099" project:"NRG" status:"pending" uuid:"961c1e41-43d0-4e53-b97d-182e0ec5afec"]
+new [description:"检查谱函数里的A,B算符是否对得上？" end:"1471404538" entry:"1471232099" modified:"1471404538" project:"NRG" status:"completed" uuid:"961c1e41-43d0-4e53-b97d-182e0ec5afec"]
+---
+time 1471777444
+new [description:"验证K归一" entry:"1471777444" project:"NRG" status:"pending" uuid:"5e70f9ba-cb33-480b-a21d-ab484bbedd9c"]
+---
+time 1472179062
+old [description:"带边缘f=0.999处反而很大，A(0.999)=0.27,为什么？" entry:"1464226868" modified:"1464226951" project:"NRG" status:"pending" uuid:"85d0c6f2-7a2b-461c-8e17-e0087c3a2b0b"]
+new [description:"带边缘f=0.999处反而很大，A(0.999)=0.27,为什么？" end:"1472179062" entry:"1464226868" modified:"1472179062" project:"NRG" status:"completed" uuid:"85d0c6f2-7a2b-461c-8e17-e0087c3a2b0b"]
+---
+time 1472179062
+old [description:"优化计算约化密度矩阵时的重复计算,可以大幅度减少计算时间." entry:"1466567306" project:"NRG" status:"pending" uuid:"d65138cc-f7c8-496a-bab5-15ead76688de"]
+new [description:"优化计算约化密度矩阵时的重复计算,可以大幅度减少计算时间." end:"1472179062" entry:"1466567306" modified:"1472179062" project:"NRG" status:"completed" uuid:"d65138cc-f7c8-496a-bab5-15ead76688de"]
+---
+time 1472179104
+old [description:"展宽函数对结果影响太大，理论上应该不变？" entry:"1468603452" project:"NRG" status:"pending" uuid:"9ecf09e6-2ec3-479a-bf39-9ea3606b4df0"]
+new [description:"展宽函数对结果影响太大，理论上应该不变？" end:"1472179104" entry:"1468603452" modified:"1472179104" project:"NRG" status:"completed" uuid:"9ecf09e6-2ec3-479a-bf39-9ea3606b4df0"]
+---
+time 1472179104
+old [description:"态密度的错误还在，说明不在密度矩阵里。" entry:"1471193934" project:"NRG" status:"pending" uuid:"5a589a20-9e79-47d8-80ca-4951ab2ecb7f"]
+new [description:"态密度的错误还在，说明不在密度矩阵里。" end:"1472179104" entry:"1471193934" modified:"1472179104" project:"NRG" status:"completed" uuid:"5a589a20-9e79-47d8-80ca-4951ab2ecb7f"]
+---
+time 1472179124
+old [description:"读取二进制文件" entry:"1468527622" project:"NRG" status:"pending" uuid:"7efb505f-4772-4f13-9df5-58a0abf845ed"]
+new [description:"读取二进制文件" end:"1472179124" entry:"1468527622" modified:"1472179124" project:"NRG" status:"completed" uuid:"7efb505f-4772-4f13-9df5-58a0abf845ed"]
+---
+time 1472179124
+old [description:"验证K归一" entry:"1471777444" project:"NRG" status:"pending" uuid:"5e70f9ba-cb33-480b-a21d-ab484bbedd9c"]
+new [description:"验证K归一" end:"1472179124" entry:"1471777444" modified:"1472179124" project:"NRG" status:"completed" uuid:"5e70f9ba-cb33-480b-a21d-ab484bbedd9c"]
+---
+time 1490580097
+new [description:"怎么才能成为NRG专家?" entry:"1490580097" modified:"1490580097" project:"NRG" status:"pending" uuid:"fa3f9c2b-19f0-4a29-bbbc-519375dcac53"]
+---
+time 1490580138
+old [description:"给程序增加输入文件." entry:"1466752253" project:"NRG" status:"pending" uuid:"ae09860a-1168-49b3-9821-44e5f6220f4b"]
+new [description:"给程序增加输入文件." end:"1490580138" entry:"1466752253" modified:"1490580138" project:"NRG" status:"completed" uuid:"ae09860a-1168-49b3-9821-44e5f6220f4b"]
+---
+time 1490580187
+old [description:"怎么才能成为NRG专家?" entry:"1490580097" modified:"1490580097" project:"NRG" status:"pending" uuid:"fa3f9c2b-19f0-4a29-bbbc-519375dcac53"]
+new [description:"怎么才能成为NRG专家?" entry:"1490580097" modified:"1490580187" project:"NRG" start:"1490580187" status:"pending" uuid:"fa3f9c2b-19f0-4a29-bbbc-519375dcac53"]
+---
+time 1490580259
+old [description:"学习emacs" entry:"1449643473" project:"emacs-learning" status:"pending" uuid:"846de2fd-bcdd-4eda-89d7-5be695057f8a"]
+new [description:"学习emacs" end:"1490580259" entry:"1449643473" modified:"1490580259" project:"emacs-learning" status:"completed" uuid:"846de2fd-bcdd-4eda-89d7-5be695057f8a"]
+---
+time 1490580468
+new [description:"利用空闲时间补充学习欠缺的NRG方方面面的知识" entry:"1490580468" modified:"1490580468" project:"NRG" status:"pending" uuid:"221a58b3-f0fc-4e9d-97f7-bb8f4bdafe81"]
+---
+time 1490580482
+old [description:"利用空闲时间补充学习欠缺的NRG方方面面的知识" entry:"1490580468" modified:"1490580468" project:"NRG" status:"pending" uuid:"221a58b3-f0fc-4e9d-97f7-bb8f4bdafe81"]
+new [description:"利用空闲时间补充学习欠缺的NRG方方面面的知识" entry:"1490580468" modified:"1490580482" project:"NRG" start:"1490580482" status:"pending" uuid:"221a58b3-f0fc-4e9d-97f7-bb8f4bdafe81"]
+---
+time 1490580631
+old [description:"利用空闲时间补充学习欠缺的NRG方方面面的知识" entry:"1490580468" modified:"1490580482" project:"NRG" start:"1490580482" status:"pending" uuid:"221a58b3-f0fc-4e9d-97f7-bb8f4bdafe81"]
+new [description:"平常利用空闲时间补充学习欠缺的NRG方方面面的知识" entry:"1490580468" modified:"1490580631" project:"NRG" start:"1490580482" status:"pending" uuid:"221a58b3-f0fc-4e9d-97f7-bb8f4bdafe81"]
+---
+time 1490581574
+new [description:"一周时间来组织文章结构等方面" entry:"1490581574" modified:"1490581574" project:"working" status:"pending" uuid:"4e99f3fb-f7eb-4688-a930-d3ec13e412b4"]
+---
+time 1490581817
+new [description:"准备下周组会" due:"1491148800" entry:"1490581817" modified:"1490581817" project:"working" status:"pending" uuid:"dfb80ee0-2285-4bee-81bc-a166b37f7cfd"]
+---
+time 1490581886
+old [description:"一周时间来组织文章结构等方面" entry:"1490581574" modified:"1490581574" project:"working" status:"pending" uuid:"4e99f3fb-f7eb-4688-a930-d3ec13e412b4"]
+new [description:"一周时间来组织文章结构等方面" due:"1491148800" entry:"1490581574" modified:"1490581886" project:"working" status:"pending" uuid:"4e99f3fb-f7eb-4688-a930-d3ec13e412b4"]
+---
+time 1490581911
+old [description:"一周时间来组织文章结构等方面" due:"1491148800" entry:"1490581574" modified:"1490581886" project:"working" status:"pending" uuid:"4e99f3fb-f7eb-4688-a930-d3ec13e412b4"]
+new [description:"一周时间来组织文章结构等方面" due:"1491148800" entry:"1490581574" modified:"1490581911" project:"working" start:"1490581911" status:"pending" uuid:"4e99f3fb-f7eb-4688-a930-d3ec13e412b4"]
+---
+time 1490581911
+old [description:"准备下周组会" due:"1491148800" entry:"1490581817" modified:"1490581817" project:"working" status:"pending" uuid:"dfb80ee0-2285-4bee-81bc-a166b37f7cfd"]
+new [description:"准备下周组会" due:"1491148800" entry:"1490581817" modified:"1490581911" project:"working" start:"1490581911" status:"pending" uuid:"dfb80ee0-2285-4bee-81bc-a166b37f7cfd"]
+---
+time 1490581970
+old [description:"怎么才能成为NRG专家?" entry:"1490580097" modified:"1490580187" project:"NRG" start:"1490580187" status:"pending" uuid:"fa3f9c2b-19f0-4a29-bbbc-519375dcac53"]
+new [depends:"a62b3009-fd20-47aa-83c8-8dbd026c943b" description:"怎么才能成为NRG专家?" entry:"1490580097" modified:"1490581970" project:"NRG" start:"1490580187" status:"pending" uuid:"fa3f9c2b-19f0-4a29-bbbc-519375dcac53"]
+---
+time 1490581999
+old [annotation_1450614360:"我的研究属于哪一块，目前研究领域的现状怎么样？" annotation_1450614421:"必须每天，至少经常关注Arxiv上的相关动态．" description:"凝聚态物理的研究可以分为几个块，每一块的核心问题是什么，" entry:"1450614363" modified:"1450614456" priority:"H" project:"working" start:"1450614456" status:"pending" uuid:"c8af195e-2b5b-4796-9b69-e9f4926eb108"]
+new [annotation_1450614360:"我的研究属于哪一块，目前研究领域的现状怎么样？" annotation_1450614421:"必须每天，至少经常关注Arxiv上的相关动态．" description:"凝聚态物理的研究可以分为几个块，每一块的核心问题是什么，" entry:"1450614363" modified:"1490581999" priority:"H" project:"working" status:"pending" uuid:"c8af195e-2b5b-4796-9b69-e9f4926eb108"]
+---
+time 1490581999
+old [description:"学习微扰重整化，精确对角化，动力学平均场，等．增加物理储备，不能只搞程序． 物理也不能落下。" entry:"1451398074" modified:"1452149560" priority:"H" project:"working" start:"1452149560" status:"pending" uuid:"a62b3009-fd20-47aa-83c8-8dbd026c943b"]
+new [description:"学习微扰重整化，精确对角化，动力学平均场，等．增加物理储备，不能只搞程序． 物理也不能落下。" entry:"1451398074" modified:"1490581999" priority:"H" project:"working" status:"pending" uuid:"a62b3009-fd20-47aa-83c8-8dbd026c943b"]
+---
+time 1490582031
+old [depends:"a62b3009-fd20-47aa-83c8-8dbd026c943b" description:"怎么才能成为NRG专家?" entry:"1490580097" modified:"1490581970" project:"NRG" start:"1490580187" status:"pending" uuid:"fa3f9c2b-19f0-4a29-bbbc-519375dcac53"]
+new [depends:"a62b3009-fd20-47aa-83c8-8dbd026c943b,221a58b3-f0fc-4e9d-97f7-bb8f4bdafe81" description:"怎么才能成为NRG专家?" entry:"1490580097" modified:"1490582031" project:"NRG" start:"1490580187" status:"pending" uuid:"fa3f9c2b-19f0-4a29-bbbc-519375dcac53"]
+---
+time 1490582092
+old [description:"平常利用空闲时间补充学习欠缺的NRG方方面面的知识" entry:"1490580468" modified:"1490580631" project:"NRG" start:"1490580482" status:"pending" uuid:"221a58b3-f0fc-4e9d-97f7-bb8f4bdafe81"]
+new [description:"平常利用空闲时间补充学习欠缺的NRG方方面面的知识" entry:"1490580468" modified:"1490582092" project:"NRG" status:"pending" uuid:"221a58b3-f0fc-4e9d-97f7-bb8f4bdafe81"]
+---
+time 1490582179
+old [depends:"a62b3009-fd20-47aa-83c8-8dbd026c943b,221a58b3-f0fc-4e9d-97f7-bb8f4bdafe81" description:"怎么才能成为NRG专家?" entry:"1490580097" modified:"1490582031" project:"NRG" start:"1490580187" status:"pending" uuid:"fa3f9c2b-19f0-4a29-bbbc-519375dcac53"]
+new [depends:"a62b3009-fd20-47aa-83c8-8dbd026c943b,221a58b3-f0fc-4e9d-97f7-bb8f4bdafe81,c8af195e-2b5b-4796-9b69-e9f4926eb108,4da910d2-1de0-4103-9395-3f989b8040af" description:"怎么才能成为NRG专家?" entry:"1490580097" modified:"1490582179" project:"NRG" start:"1490580187" status:"pending" uuid:"fa3f9c2b-19f0-4a29-bbbc-519375dcac53"]
+---
+time 1490582492
+new [description:"必须每天，至少经常关注Arxiv上的相关动态．" entry:"1490582492" modified:"1490582492" priority:"H" project:"working" status:"pending" uuid:"bb0143c1-4057-4420-b6db-0a7d79391732"]
+---
+time 1490582503
+old [description:"必须每天，至少经常关注Arxiv上的相关动态．" entry:"1490582492" modified:"1490582492" priority:"H" project:"working" status:"pending" uuid:"bb0143c1-4057-4420-b6db-0a7d79391732"]
+new [description:"必须每天，至少经常关注Arxiv上的相关动态．" entry:"1490582492" modified:"1490582503" priority:"H" project:"working" start:"1490582503" status:"pending" uuid:"bb0143c1-4057-4420-b6db-0a7d79391732"]
+---
+time 1490582552
+old [annotation_1450614360:"我的研究属于哪一块，目前研究领域的现状怎么样？" annotation_1450614421:"必须每天，至少经常关注Arxiv上的相关动态．" description:"凝聚态物理的研究可以分为几个块，每一块的核心问题是什么，" entry:"1450614363" modified:"1490581999" priority:"H" project:"working" status:"pending" uuid:"c8af195e-2b5b-4796-9b69-e9f4926eb108"]
+new [annotation_1450614360:"我的研究属于哪一块，目前研究领域的现状怎么样？" description:"凝聚态物理的研究可以分为几个块，每一块的核心问题是什么，" entry:"1450614363" modified:"1490582552" priority:"H" project:"working" status:"pending" uuid:"c8af195e-2b5b-4796-9b69-e9f4926eb108"]
+---
+time 1490582575
+old [depends:"a62b3009-fd20-47aa-83c8-8dbd026c943b,221a58b3-f0fc-4e9d-97f7-bb8f4bdafe81,c8af195e-2b5b-4796-9b69-e9f4926eb108,4da910d2-1de0-4103-9395-3f989b8040af" description:"怎么才能成为NRG专家?" entry:"1490580097" modified:"1490582179" project:"NRG" start:"1490580187" status:"pending" uuid:"fa3f9c2b-19f0-4a29-bbbc-519375dcac53"]
+new [depends:"a62b3009-fd20-47aa-83c8-8dbd026c943b,221a58b3-f0fc-4e9d-97f7-bb8f4bdafe81,c8af195e-2b5b-4796-9b69-e9f4926eb108,4da910d2-1de0-4103-9395-3f989b8040af,bb0143c1-4057-4420-b6db-0a7d79391732" description:"怎么才能成为NRG专家?" entry:"1490580097" modified:"1490582575" project:"NRG" start:"1490580187" status:"pending" uuid:"fa3f9c2b-19f0-4a29-bbbc-519375dcac53"]
+---
+time 1490583070
+new [description:"修改task colors" entry:"1490583070" modified:"1490583070" status:"pending" uuid:"920105ab-c2c8-40c7-ae79-a2f726f88a42"]
+---
+time 1490683340
+old [description:"修改task colors" entry:"1490583070" modified:"1490583070" status:"pending" uuid:"920105ab-c2c8-40c7-ae79-a2f726f88a42"]
+new [description:"修改task colors" end:"1490683340" entry:"1490583070" modified:"1490683340" status:"completed" uuid:"920105ab-c2c8-40c7-ae79-a2f726f88a42"]
+---
