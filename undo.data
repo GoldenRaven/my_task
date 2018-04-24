@@ -1705,3 +1705,10 @@ time 1524577420
 old [description:"画图" due:"1524672000" entry:"1524554469" modified:"1524569050" priority:"H" project:"NRG" status:"pending" uuid:"cb10a02e-38af-44b2-8796-e583f75598ee"]
 new [description:"画图" due:"1524672000" entry:"1524554469" modified:"1524577420" priority:"H" project:"NRG" start:"1524577420" status:"pending" uuid:"cb10a02e-38af-44b2-8796-e583f75598ee"]
 ---
+time 1524577745
+new [description:"positive 0.042 ~ 0.05, negative" due:"1524664145" entry:"1524577745" modified:"1524577745" project:"working" status:"pending" uuid:"05b7448c-f8fd-4772-b3b0-1adbcd5d7629"]
+---
+time 1524577763
+old [description:"positive 0.042 ~ 0.05, negative" due:"1524664145" entry:"1524577745" modified:"1524577745" project:"working" status:"pending" uuid:"05b7448c-f8fd-4772-b3b0-1adbcd5d7629"]
+new [description:"positive 0.042 ~ 0.05, negative" due:"1524664145" entry:"1524577745" modified:"1524577763" project:"working" start:"1524577763" status:"pending" uuid:"05b7448c-f8fd-4772-b3b0-1adbcd5d7629"]
+---

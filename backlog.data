@@ -48,3 +48,5 @@
 {"description":"画图","due":"20180425T160000Z","entry":"20180424T072109Z","modified":"20180424T112410Z","priority":"H","project":"NRG","status":"pending","uuid":"cb10a02e-38af-44b2-8796-e583f75598ee"}
 {"description":"确定stm-dos的参数","due":"20180429T160000Z","entry":"20180424T134307Z","modified":"20180424T134307Z","priority":"M","project":"NRG","status":"pending","uuid":"c7ac2eef-0a3d-482c-acc0-f8f065db6ccf"}
 {"description":"画图","due":"20180425T160000Z","entry":"20180424T072109Z","modified":"20180424T134340Z","priority":"H","project":"NRG","start":"20180424T134340Z","status":"pending","uuid":"cb10a02e-38af-44b2-8796-e583f75598ee"}
+{"description":"positive 0.042 ~ 0.05, negative","due":"20180425T134905Z","entry":"20180424T134905Z","modified":"20180424T134905Z","project":"working","status":"pending","uuid":"05b7448c-f8fd-4772-b3b0-1adbcd5d7629"}
+{"description":"positive 0.042 ~ 0.05, negative","due":"20180425T134905Z","entry":"20180424T134905Z","modified":"20180424T134923Z","project":"working","start":"20180424T134923Z","status":"pending","uuid":"05b7448c-f8fd-4772-b3b0-1adbcd5d7629"}
