@@ -1607,3 +1607,90 @@ time 1490683340
 old [description:"修改task colors" entry:"1490583070" modified:"1490583070" status:"pending" uuid:"920105ab-c2c8-40c7-ae79-a2f726f88a42"]
 new [description:"修改task colors" end:"1490683340" entry:"1490583070" modified:"1490683340" status:"completed" uuid:"920105ab-c2c8-40c7-ae79-a2f726f88a42"]
 ---
+time 1491102282
+new [description:"Kondo model中的参数?相图?" entry:"1491102282" modified:"1491102282" project:"working" status:"pending" uuid:"a6cfd29e-c3f9-480b-a88e-7a61d9b3f530"]
+---
+time 1491102306
+new [description:"Anderson model中的参数?相图?" entry:"1491102306" modified:"1491102306" project:"working" status:"pending" uuid:"27a4157b-5cc0-42c2-8cd7-2fa5317633ff"]
+---
+time 1491102320
+old [description:"Kondo model中的参数?相图?" entry:"1491102282" modified:"1491102282" project:"working" status:"pending" uuid:"a6cfd29e-c3f9-480b-a88e-7a61d9b3f530"]
+new [description:"Kondo model中的参数?相图?" entry:"1491102282" modified:"1491102320" project:"working" start:"1491102320" status:"pending" uuid:"a6cfd29e-c3f9-480b-a88e-7a61d9b3f530"]
+---
+time 1491102320
+old [description:"Anderson model中的参数?相图?" entry:"1491102306" modified:"1491102306" project:"working" status:"pending" uuid:"27a4157b-5cc0-42c2-8cd7-2fa5317633ff"]
+new [description:"Anderson model中的参数?相图?" entry:"1491102306" modified:"1491102320" project:"working" start:"1491102320" status:"pending" uuid:"27a4157b-5cc0-42c2-8cd7-2fa5317633ff"]
+---
+time 1492152833
+old [description:"准备下周组会" due:"1491148800" entry:"1490581817" modified:"1490581911" project:"working" start:"1490581911" status:"pending" uuid:"dfb80ee0-2285-4bee-81bc-a166b37f7cfd"]
+new [description:"准备下周组会" due:"1491148800" end:"1492152833" entry:"1490581817" modified:"1492152833" project:"working" status:"completed" uuid:"dfb80ee0-2285-4bee-81bc-a166b37f7cfd"]
+---
+time 1496382624
+old [description:"一周时间来组织文章结构等方面" due:"1491148800" entry:"1490581574" modified:"1490581911" project:"working" start:"1490581911" status:"pending" uuid:"4e99f3fb-f7eb-4688-a930-d3ec13e412b4"]
+new [description:"一周时间来组织文章结构等方面" due:"1491148800" end:"1496382624" entry:"1490581574" modified:"1496382624" project:"working" status:"completed" uuid:"4e99f3fb-f7eb-4688-a930-d3ec13e412b4"]
+---
+time 1496566957
+old [description:"能不能以文件后缀识别，选择性地开启或禁用部分插件．" entry:"1452501723" project:"vim" status:"pending" uuid:"e6ef3beb-488e-4b65-9d86-f5df31e78c98"]
+new [description:"能不能以文件后缀识别，选择性地开启或禁用部分插件．" end:"1496566957" entry:"1452501723" modified:"1496566957" project:"vim" status:"completed" uuid:"e6ef3beb-488e-4b65-9d86-f5df31e78c98"]
+---
+time 1513326482
+old [description:"Kondo model中的参数?相图?" entry:"1491102282" modified:"1491102320" project:"working" start:"1491102320" status:"pending" uuid:"a6cfd29e-c3f9-480b-a88e-7a61d9b3f530"]
+new [description:"Kondo model中的参数?相图?" end:"1513326482" entry:"1491102282" modified:"1513326482" project:"working" status:"completed" uuid:"a6cfd29e-c3f9-480b-a88e-7a61d9b3f530"]
+---
+time 1513326488
+old [description:"Anderson model中的参数?相图?" entry:"1491102306" modified:"1491102320" project:"working" start:"1491102320" status:"pending" uuid:"27a4157b-5cc0-42c2-8cd7-2fa5317633ff"]
+new [description:"Anderson model中的参数?相图?" end:"1513326488" entry:"1491102306" modified:"1513326488" project:"working" status:"completed" uuid:"27a4157b-5cc0-42c2-8cd7-2fa5317633ff"]
+---
+time 1524549174
+old [description:"从文件读入中间数据c,U,E等，无需再重头算能量." entry:"1467987281" project:"NRG" status:"pending" uuid:"a16f7164-ca04-4b5e-bcbb-f407e293b136"]
+new [description:"从文件读入中间数据c,U,E等，无需再重头算能量." end:"1524549174" entry:"1467987281" modified:"1524549174" project:"NRG" status:"completed" uuid:"a16f7164-ca04-4b5e-bcbb-f407e293b136"]
+---
+time 1524549193
+old [description:"平常利用空闲时间补充学习欠缺的NRG方方面面的知识" entry:"1490580468" modified:"1490582092" project:"NRG" status:"pending" uuid:"221a58b3-f0fc-4e9d-97f7-bb8f4bdafe81"]
+new [description:"平常利用空闲时间补充学习欠缺的NRG方方面面的知识" end:"1524549193" entry:"1490580468" modified:"1524549193" project:"NRG" status:"completed" uuid:"221a58b3-f0fc-4e9d-97f7-bb8f4bdafe81"]
+---
+time 1524549202
+old [description:"刪除c^{dag}_up_basis, c^{dag}_down_basis,c^{dag}_up_eigen, c^{dag}_down_eigen算符以減少內存佔用." entry:"1470969869" modified:"1470970255" project:"NRG" status:"pending" uuid:"74fe4097-348b-412f-bb43-ffbf063d4d3a"]
+new [description:"刪除c^{dag}_up_basis, c^{dag}_down_basis,c^{dag}_up_eigen, c^{dag}_down_eigen算符以減少內存佔用." end:"1524549202" entry:"1470969869" modified:"1524549202" project:"NRG" status:"completed" uuid:"74fe4097-348b-412f-bb43-ffbf063d4d3a"]
+---
+time 1524549228
+old [description:"学习微扰重整化，精确对角化，动力学平均场，等．增加物理储备，不能只搞程序． 物理也不能落下。" entry:"1451398074" modified:"1490581999" priority:"H" project:"working" status:"pending" uuid:"a62b3009-fd20-47aa-83c8-8dbd026c943b"]
+new [description:"学习微扰重整化，精确对角化，动力学平均场，等．增加物理储备，不能只搞程序． 物理也不能落下。" end:"1524549228" entry:"1451398074" modified:"1524549228" priority:"H" project:"working" status:"completed" uuid:"a62b3009-fd20-47aa-83c8-8dbd026c943b"]
+---
+time 1524549280
+old [annotation_1449299405:"see Modern-theory-of-critical-phenomena？" description:"什么时候，在哪些体系 ，模型中可以用微扰方法？" entry:"1449299184" modified:"1449299427" project:"working" status:"pending" uuid:"b9fb1cf5-c9cb-4dcb-b265-b08c583fc6e1"]
+new [annotation_1449299405:"see Modern-theory-of-critical-phenomena？" description:"什么时候，在哪些体系 ，模型中可以用微扰方法？" end:"1524549280" entry:"1449299184" modified:"1524549280" project:"working" status:"completed" uuid:"b9fb1cf5-c9cb-4dcb-b265-b08c583fc6e1"]
+---
+time 1524549307
+old [description:"taskwarrior的手机APP? server? 与映像笔记的配合使用。" entry:"1448093130" modified:"1448093193" project:"taskwarrior-learning" status:"pending" uuid:"0e5b5e0f-90c4-4e04-bd61-6cc875d2ab26"]
+new [description:"taskwarrior的手机APP? server? 与映像笔记的配合使用。" end:"1524549307" entry:"1448093130" modified:"1524549307" project:"taskwarrior-learning" status:"completed" uuid:"0e5b5e0f-90c4-4e04-bd61-6cc875d2ab26"]
+---
+time 1524549316
+old [depends:"a62b3009-fd20-47aa-83c8-8dbd026c943b,221a58b3-f0fc-4e9d-97f7-bb8f4bdafe81,c8af195e-2b5b-4796-9b69-e9f4926eb108,4da910d2-1de0-4103-9395-3f989b8040af,bb0143c1-4057-4420-b6db-0a7d79391732" description:"怎么才能成为NRG专家?" entry:"1490580097" modified:"1490582575" project:"NRG" start:"1490580187" status:"pending" uuid:"fa3f9c2b-19f0-4a29-bbbc-519375dcac53"]
+new [depends:"a62b3009-fd20-47aa-83c8-8dbd026c943b,221a58b3-f0fc-4e9d-97f7-bb8f4bdafe81,c8af195e-2b5b-4796-9b69-e9f4926eb108,4da910d2-1de0-4103-9395-3f989b8040af,bb0143c1-4057-4420-b6db-0a7d79391732" description:"怎么才能成为NRG专家?" end:"1524549316" entry:"1490580097" modified:"1524549316" project:"NRG" status:"completed" uuid:"fa3f9c2b-19f0-4a29-bbbc-519375dcac53"]
+---
+time 1524550796
+new [description:"找房老师讨论" entry:"1524550796" modified:"1524550796" status:"pending" uuid:"1ec189d7-0dfc-469c-bfc6-8187d6a74863"]
+---
+time 1524550848
+old [description:"找房老师讨论" entry:"1524550796" modified:"1524550796" status:"pending" uuid:"1ec189d7-0dfc-469c-bfc6-8187d6a74863"]
+new [description:"找房老师讨论" entry:"1524550796" modified:"1524550848" priority:"H" status:"pending" uuid:"1ec189d7-0dfc-469c-bfc6-8187d6a74863"]
+---
+time 1524550864
+old [description:"找房老师讨论" entry:"1524550796" modified:"1524550848" priority:"H" status:"pending" uuid:"1ec189d7-0dfc-469c-bfc6-8187d6a74863"]
+new [description:"找房老师讨论" due:"1524585600" entry:"1524550796" modified:"1524550864" priority:"H" status:"pending" uuid:"1ec189d7-0dfc-469c-bfc6-8187d6a74863"]
+---
+time 1524551593
+new [description:"备份资料" due:"1525017600" entry:"1524551593" modified:"1524551593" priority:"H" project:"working" status:"pending" uuid:"1ec12e9f-1f89-414a-b8ef-7f94a6bc5b76"]
+---
+time 1524554383
+old [description:"找房老师讨论" due:"1524585600" entry:"1524550796" modified:"1524550864" priority:"H" status:"pending" uuid:"1ec189d7-0dfc-469c-bfc6-8187d6a74863"]
+new [description:"找房老师讨论" due:"1524585600" end:"1524554383" entry:"1524550796" modified:"1524554383" priority:"H" status:"completed" uuid:"1ec189d7-0dfc-469c-bfc6-8187d6a74863"]
+---
+time 1524554469
+new [description:"画图" due:"1524585600" entry:"1524554469" modified:"1524554469" project:"NRG" status:"pending" uuid:"cb10a02e-38af-44b2-8796-e583f75598ee"]
+---
+time 1524554492
+old [description:"画图" due:"1524585600" entry:"1524554469" modified:"1524554469" project:"NRG" status:"pending" uuid:"cb10a02e-38af-44b2-8796-e583f75598ee"]
+new [description:"画图" due:"1524585600" entry:"1524554469" modified:"1524554492" priority:"H" project:"NRG" status:"pending" uuid:"cb10a02e-38af-44b2-8796-e583f75598ee"]
+---
