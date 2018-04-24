@@ -45,3 +45,6 @@
 {"description":"找房老师讨论","due":"20180424T160000Z","end":"20180424T071943Z","entry":"20180424T061956Z","modified":"20180424T071943Z","priority":"H","status":"completed","uuid":"1ec189d7-0dfc-469c-bfc6-8187d6a74863"}
 {"description":"画图","due":"20180424T160000Z","entry":"20180424T072109Z","modified":"20180424T072109Z","project":"NRG","status":"pending","uuid":"cb10a02e-38af-44b2-8796-e583f75598ee"}
 {"description":"画图","due":"20180424T160000Z","entry":"20180424T072109Z","modified":"20180424T072132Z","priority":"H","project":"NRG","status":"pending","uuid":"cb10a02e-38af-44b2-8796-e583f75598ee"}
+{"description":"画图","due":"20180425T160000Z","entry":"20180424T072109Z","modified":"20180424T112410Z","priority":"H","project":"NRG","status":"pending","uuid":"cb10a02e-38af-44b2-8796-e583f75598ee"}
+{"description":"确定stm-dos的参数","due":"20180429T160000Z","entry":"20180424T134307Z","modified":"20180424T134307Z","priority":"M","project":"NRG","status":"pending","uuid":"c7ac2eef-0a3d-482c-acc0-f8f065db6ccf"}
+{"description":"画图","due":"20180425T160000Z","entry":"20180424T072109Z","modified":"20180424T134340Z","priority":"H","project":"NRG","start":"20180424T134340Z","status":"pending","uuid":"cb10a02e-38af-44b2-8796-e583f75598ee"}
