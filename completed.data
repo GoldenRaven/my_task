@@ -1,3 +1,5 @@
+[description:"positive 0.042 ~ 0.05, negative" due:"1524664145" end:"1524648235" entry:"1524577745" modified:"1524648235" project:"working" status:"completed" uuid:"05b7448c-f8fd-4772-b3b0-1adbcd5d7629"]
+[description:"画图" due:"1524672000" end:"1524648181" entry:"1524554469" modified:"1524648181" priority:"H" project:"NRG" status:"completed" uuid:"cb10a02e-38af-44b2-8796-e583f75598ee"]
 [description:"找房老师讨论" due:"1524585600" end:"1524554383" entry:"1524550796" modified:"1524554383" priority:"H" status:"completed" uuid:"1ec189d7-0dfc-469c-bfc6-8187d6a74863"]
 [depends:"a62b3009-fd20-47aa-83c8-8dbd026c943b,221a58b3-f0fc-4e9d-97f7-bb8f4bdafe81,c8af195e-2b5b-4796-9b69-e9f4926eb108,4da910d2-1de0-4103-9395-3f989b8040af,bb0143c1-4057-4420-b6db-0a7d79391732" description:"怎么才能成为NRG专家?" end:"1524549316" entry:"1490580097" modified:"1524549316" project:"NRG" status:"completed" uuid:"fa3f9c2b-19f0-4a29-bbbc-519375dcac53"]
 [description:"taskwarrior的手机APP? server? 与映像笔记的配合使用。" end:"1524549307" entry:"1448093130" modified:"1524549307" project:"taskwarrior-learning" status:"completed" uuid:"0e5b5e0f-90c4-4e04-bd61-6cc875d2ab26"]

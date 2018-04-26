@@ -50,3 +50,6 @@
 {"description":"画图","due":"20180425T160000Z","entry":"20180424T072109Z","modified":"20180424T134340Z","priority":"H","project":"NRG","start":"20180424T134340Z","status":"pending","uuid":"cb10a02e-38af-44b2-8796-e583f75598ee"}
 {"description":"positive 0.042 ~ 0.05, negative","due":"20180425T134905Z","entry":"20180424T134905Z","modified":"20180424T134905Z","project":"working","status":"pending","uuid":"05b7448c-f8fd-4772-b3b0-1adbcd5d7629"}
 {"description":"positive 0.042 ~ 0.05, negative","due":"20180425T134905Z","entry":"20180424T134905Z","modified":"20180424T134923Z","project":"working","start":"20180424T134923Z","status":"pending","uuid":"05b7448c-f8fd-4772-b3b0-1adbcd5d7629"}
+{"description":"画图","due":"20180425T160000Z","end":"20180425T092301Z","entry":"20180424T072109Z","modified":"20180425T092301Z","priority":"H","project":"NRG","status":"completed","uuid":"cb10a02e-38af-44b2-8796-e583f75598ee"}
+{"description":"positive 0.042 ~ 0.05, negative","due":"20180425T134905Z","end":"20180425T092355Z","entry":"20180424T134905Z","modified":"20180425T092355Z","project":"working","status":"completed","uuid":"05b7448c-f8fd-4772-b3b0-1adbcd5d7629"}
+{"description":"用新的函数拟合曲线","due":"20180428T014353Z","entry":"20180426T014353Z","modified":"20180426T014353Z","priority":"H","project":"working","status":"pending","uuid":"2d23e068-6c39-40b8-a7a0-620901ad6869"}
