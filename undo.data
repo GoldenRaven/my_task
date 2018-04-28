@@ -1723,3 +1723,13 @@ new [description:"positive 0.042 ~ 0.05, negative" due:"1524664145" end:"1524648
 time 1524707033
 new [description:"用新的函数拟合曲线" due:"1524879833" entry:"1524707033" modified:"1524707033" priority:"H" project:"working" status:"pending" uuid:"2d23e068-6c39-40b8-a7a0-620901ad6869"]
 ---
+time 1524908004
+old [description:"用新的函数拟合曲线" due:"1524879833" entry:"1524707033" modified:"1524707033" priority:"H" project:"working" status:"pending" uuid:"2d23e068-6c39-40b8-a7a0-620901ad6869"]
+new [description:"用新的函数拟合曲线" due:"1524879833" end:"1524908004" entry:"1524707033" modified:"1524908004" priority:"H" project:"working" status:"completed" uuid:"2d23e068-6c39-40b8-a7a0-620901ad6869"]
+---
+time 1524908068
+new [description:"找F汇报" due:"1524994468" entry:"1524908068" modified:"1524908068" priority:"M" project:"working" status:"pending" uuid:"c638f2b4-2b32-4de6-9efa-0066f4a88864"]
+---
+time 1524908151
+new [description:"拟合负频率部分" due:"1524931200" entry:"1524908151" modified:"1524908151" priority:"H" project:"working" status:"pending" uuid:"375b0fe4-0772-4240-a77c-7f7aa469c3d2"]
+---
