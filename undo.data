@@ -1733,3 +1733,11 @@ new [description:"找F汇报" due:"1524994468" entry:"1524908068" modified:"1524
 time 1524908151
 new [description:"拟合负频率部分" due:"1524931200" entry:"1524908151" modified:"1524908151" priority:"H" project:"working" status:"pending" uuid:"375b0fe4-0772-4240-a77c-7f7aa469c3d2"]
 ---
+time 1525006158
+old [description:"拟合负频率部分" due:"1524931200" entry:"1524908151" modified:"1524908151" priority:"H" project:"working" status:"pending" uuid:"375b0fe4-0772-4240-a77c-7f7aa469c3d2"]
+new [description:"拟合负频率部分" due:"1524931200" end:"1525006158" entry:"1524908151" modified:"1525006158" priority:"H" project:"working" status:"completed" uuid:"375b0fe4-0772-4240-a77c-7f7aa469c3d2"]
+---
+time 1525008256
+old [description:"找F汇报" due:"1524994468" entry:"1524908068" modified:"1524908068" priority:"M" project:"working" status:"pending" uuid:"c638f2b4-2b32-4de6-9efa-0066f4a88864"]
+new [description:"找F汇报" due:"1524994468" end:"1525008256" entry:"1524908068" modified:"1525008256" priority:"M" project:"working" status:"completed" uuid:"c638f2b4-2b32-4de6-9efa-0066f4a88864"]
+---

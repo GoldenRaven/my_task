@@ -56,3 +56,5 @@
 {"description":"用新的函数拟合曲线","due":"20180428T014353Z","end":"20180428T093324Z","entry":"20180426T014353Z","modified":"20180428T093324Z","priority":"H","project":"working","status":"completed","uuid":"2d23e068-6c39-40b8-a7a0-620901ad6869"}
 {"description":"找F汇报","due":"20180429T093428Z","entry":"20180428T093428Z","modified":"20180428T093428Z","priority":"M","project":"working","status":"pending","uuid":"c638f2b4-2b32-4de6-9efa-0066f4a88864"}
 {"description":"拟合负频率部分","due":"20180428T160000Z","entry":"20180428T093551Z","modified":"20180428T093551Z","priority":"H","project":"working","status":"pending","uuid":"375b0fe4-0772-4240-a77c-7f7aa469c3d2"}
+{"description":"拟合负频率部分","due":"20180428T160000Z","end":"20180429T124918Z","entry":"20180428T093551Z","modified":"20180429T124918Z","priority":"H","project":"working","status":"completed","uuid":"375b0fe4-0772-4240-a77c-7f7aa469c3d2"}
+{"description":"找F汇报","due":"20180429T093428Z","end":"20180429T132416Z","entry":"20180428T093428Z","modified":"20180429T132416Z","priority":"M","project":"working","status":"completed","uuid":"c638f2b4-2b32-4de6-9efa-0066f4a88864"}

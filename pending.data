@@ -6,5 +6,3 @@
 [description:"必须每天，至少经常关注Arxiv上的相关动态．" entry:"1490582492" modified:"1490582503" priority:"H" project:"working" start:"1490582503" status:"pending" uuid:"bb0143c1-4057-4420-b6db-0a7d79391732"]
 [description:"备份资料" due:"1525017600" entry:"1524551593" modified:"1524551593" priority:"H" project:"working" status:"pending" uuid:"1ec12e9f-1f89-414a-b8ef-7f94a6bc5b76"]
 [description:"确定stm-dos的参数" due:"1525017600" entry:"1524577387" modified:"1524577387" priority:"M" project:"NRG" status:"pending" uuid:"c7ac2eef-0a3d-482c-acc0-f8f065db6ccf"]
-[description:"找F汇报" due:"1524994468" entry:"1524908068" modified:"1524908068" priority:"M" project:"working" status:"pending" uuid:"c638f2b4-2b32-4de6-9efa-0066f4a88864"]
-[description:"拟合负频率部分" due:"1524931200" entry:"1524908151" modified:"1524908151" priority:"H" project:"working" status:"pending" uuid:"375b0fe4-0772-4240-a77c-7f7aa469c3d2"]
