@@ -1741,3 +1741,21 @@ time 1525008256
 old [description:"找F汇报" due:"1524994468" entry:"1524908068" modified:"1524908068" priority:"M" project:"working" status:"pending" uuid:"c638f2b4-2b32-4de6-9efa-0066f4a88864"]
 new [description:"找F汇报" due:"1524994468" end:"1525008256" entry:"1524908068" modified:"1525008256" priority:"M" project:"working" status:"completed" uuid:"c638f2b4-2b32-4de6-9efa-0066f4a88864"]
 ---
+time 1525018992
+new [description:"改善小h的拟合，以提高精度" due:"1525105392" entry:"1525018992" modified:"1525018992" priority:"H" project:"working" status:"pending" uuid:"8c9b526e-d3de-4c66-8c3e-428fae5342c9"]
+---
+time 1525019103
+new [description:"减去h=0的态密度，以峰值画split" due:"1525105503" entry:"1525019103" modified:"1525019103" priority:"H" project:"working" status:"pending" uuid:"058ae090-473c-4879-be79-bcf0c5b45d5a"]
+---
+time 1525019131
+old [description:"备份资料" due:"1525017600" entry:"1524551593" modified:"1524551593" priority:"H" project:"working" status:"pending" uuid:"1ec12e9f-1f89-414a-b8ef-7f94a6bc5b76"]
+new [description:"备份资料" due:"1525278331" entry:"1524551593" modified:"1525019131" priority:"H" project:"working" status:"pending" uuid:"1ec12e9f-1f89-414a-b8ef-7f94a6bc5b76"]
+---
+time 1525020310
+old [description:"改善小h的拟合，以提高精度" due:"1525105392" entry:"1525018992" modified:"1525018992" priority:"H" project:"working" status:"pending" uuid:"8c9b526e-d3de-4c66-8c3e-428fae5342c9"]
+new [description:"改善小h的拟合，以提高精度" due:"1525105392" entry:"1525018992" modified:"1525020310" priority:"H" project:"working" start:"1525020310" status:"pending" uuid:"8c9b526e-d3de-4c66-8c3e-428fae5342c9"]
+---
+time 1525020310
+old [description:"减去h=0的态密度，以峰值画split" due:"1525105503" entry:"1525019103" modified:"1525019103" priority:"H" project:"working" status:"pending" uuid:"058ae090-473c-4879-be79-bcf0c5b45d5a"]
+new [description:"减去h=0的态密度，以峰值画split" due:"1525105503" entry:"1525019103" modified:"1525020310" priority:"H" project:"working" start:"1525020310" status:"pending" uuid:"058ae090-473c-4879-be79-bcf0c5b45d5a"]
+---

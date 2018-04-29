@@ -4,5 +4,7 @@
 [description:"处理强关联都有什么方法？都需要了解．" entry:"1451397893" priority:"H" project:"working" status:"pending" uuid:"4da910d2-1de0-4103-9395-3f989b8040af"]
 [depends:"cc2ef961-30e9-4956-8db7-696212feb00c,424c7827-55ce-4c93-87b7-64df69c3af52,85d0c6f2-7a2b-461c-8e17-e0087c3a2b0b,e1dbede1-7ee5-48f5-84cc-ee6d049468fc,d65138cc-f7c8-496a-bab5-15ead76688de,135b460a-7588-4392-99d0-6a47a91af6a5,ae09860a-1168-49b3-9821-44e5f6220f4b,a16f7164-ca04-4b5e-bcbb-f407e293b136,74fe4097-348b-412f-bb43-ffbf063d4d3a" description:"优化程序结构等各方面．" entry:"1464180169" modified:"1470969905" project:"NRG" status:"pending" uuid:"680dacd7-af14-4b7f-ae2d-dd75f0e1a503"]
 [description:"必须每天，至少经常关注Arxiv上的相关动态．" entry:"1490582492" modified:"1490582503" priority:"H" project:"working" start:"1490582503" status:"pending" uuid:"bb0143c1-4057-4420-b6db-0a7d79391732"]
-[description:"备份资料" due:"1525017600" entry:"1524551593" modified:"1524551593" priority:"H" project:"working" status:"pending" uuid:"1ec12e9f-1f89-414a-b8ef-7f94a6bc5b76"]
+[description:"备份资料" due:"1525278331" entry:"1524551593" modified:"1525019131" priority:"H" project:"working" status:"pending" uuid:"1ec12e9f-1f89-414a-b8ef-7f94a6bc5b76"]
 [description:"确定stm-dos的参数" due:"1525017600" entry:"1524577387" modified:"1524577387" priority:"M" project:"NRG" status:"pending" uuid:"c7ac2eef-0a3d-482c-acc0-f8f065db6ccf"]
+[description:"改善小h的拟合，以提高精度" due:"1525105392" entry:"1525018992" modified:"1525020310" priority:"H" project:"working" start:"1525020310" status:"pending" uuid:"8c9b526e-d3de-4c66-8c3e-428fae5342c9"]
+[description:"减去h=0的态密度，以峰值画split" due:"1525105503" entry:"1525019103" modified:"1525020310" priority:"H" project:"working" start:"1525020310" status:"pending" uuid:"058ae090-473c-4879-be79-bcf0c5b45d5a"]
