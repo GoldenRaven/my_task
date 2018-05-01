@@ -63,3 +63,4 @@
 {"description":"备份资料","due":"20180502T162531Z","entry":"20180424T063313Z","modified":"20180429T162531Z","priority":"H","project":"working","status":"pending","uuid":"1ec12e9f-1f89-414a-b8ef-7f94a6bc5b76"}
 {"description":"改善小h的拟合，以提高精度","due":"20180430T162312Z","entry":"20180429T162312Z","modified":"20180429T164510Z","priority":"H","project":"working","start":"20180429T164510Z","status":"pending","uuid":"8c9b526e-d3de-4c66-8c3e-428fae5342c9"}
 {"description":"减去h=0的态密度，以峰值画split","due":"20180430T162503Z","entry":"20180429T162503Z","modified":"20180429T164510Z","priority":"H","project":"working","start":"20180429T164510Z","status":"pending","uuid":"058ae090-473c-4879-be79-bcf0c5b45d5a"}
+{"description":"减去h=0的态密度，以峰值画split","due":"20180430T162503Z","end":"20180501T113349Z","entry":"20180429T162503Z","modified":"20180501T113349Z","priority":"H","project":"working","status":"completed","uuid":"058ae090-473c-4879-be79-bcf0c5b45d5a"}
