@@ -6,4 +6,3 @@
 [description:"必须每天，至少经常关注Arxiv上的相关动态．" entry:"1490582492" modified:"1490582503" priority:"H" project:"working" start:"1490582503" status:"pending" uuid:"bb0143c1-4057-4420-b6db-0a7d79391732"]
 [description:"备份资料" due:"1525278331" entry:"1524551593" modified:"1525019131" priority:"H" project:"working" status:"pending" uuid:"1ec12e9f-1f89-414a-b8ef-7f94a6bc5b76"]
 [description:"确定stm-dos的参数" due:"1525017600" entry:"1524577387" modified:"1524577387" priority:"M" project:"NRG" status:"pending" uuid:"c7ac2eef-0a3d-482c-acc0-f8f065db6ccf"]
-[description:"改善小h的拟合，以提高精度" due:"1525105392" entry:"1525018992" modified:"1525020310" priority:"H" project:"working" start:"1525020310" status:"pending" uuid:"8c9b526e-d3de-4c66-8c3e-428fae5342c9"]

@@ -1,3 +1,4 @@
+[description:"改善小h的拟合，以提高精度" due:"1525105392" end:"1525249833" entry:"1525018992" modified:"1525249833" priority:"H" project:"working" status:"completed" uuid:"8c9b526e-d3de-4c66-8c3e-428fae5342c9"]
 [description:"减去h=0的态密度，以峰值画split" due:"1525105503" end:"1525174429" entry:"1525019103" modified:"1525174429" priority:"H" project:"working" status:"completed" uuid:"058ae090-473c-4879-be79-bcf0c5b45d5a"]
 [description:"找F汇报" due:"1524994468" end:"1525008256" entry:"1524908068" modified:"1525008256" priority:"M" project:"working" status:"completed" uuid:"c638f2b4-2b32-4de6-9efa-0066f4a88864"]
 [description:"拟合负频率部分" due:"1524931200" end:"1525006158" entry:"1524908151" modified:"1525006158" priority:"H" project:"working" status:"completed" uuid:"375b0fe4-0772-4240-a77c-7f7aa469c3d2"]
