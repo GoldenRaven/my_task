@@ -1767,3 +1767,20 @@ time 1525249833
 old [description:"改善小h的拟合，以提高精度" due:"1525105392" entry:"1525018992" modified:"1525020310" priority:"H" project:"working" start:"1525020310" status:"pending" uuid:"8c9b526e-d3de-4c66-8c3e-428fae5342c9"]
 new [description:"改善小h的拟合，以提高精度" due:"1525105392" end:"1525249833" entry:"1525018992" modified:"1525249833" priority:"H" project:"working" status:"completed" uuid:"8c9b526e-d3de-4c66-8c3e-428fae5342c9"]
 ---
+time 1525268372
+new [description:"找F汇报" due:"1525354772" entry:"1525268372" modified:"1525268372" priority:"M" project:"working" status:"pending" uuid:"585ea9b5-3da7-434c-8134-564c5379f93e"]
+---
+time 1525268845
+old [description:"确定stm-dos的参数" due:"1525017600" entry:"1524577387" modified:"1524577387" priority:"M" project:"NRG" status:"pending" uuid:"c7ac2eef-0a3d-482c-acc0-f8f065db6ccf"]
+new [description:"确定stm-dos的参数" due:"1525017600" end:"1525268843" entry:"1524577387" modified:"1525268845" priority:"M" project:"NRG" status:"deleted" uuid:"c7ac2eef-0a3d-482c-acc0-f8f065db6ccf"]
+---
+time 1525268856
+old [description:"找F汇报" due:"1525354772" entry:"1525268372" modified:"1525268372" priority:"M" project:"working" status:"pending" uuid:"585ea9b5-3da7-434c-8134-564c5379f93e"]
+new [description:"找F汇报" due:"1525354772" entry:"1525268372" modified:"1525268856" priority:"M" project:"working" start:"1525268856" status:"pending" uuid:"585ea9b5-3da7-434c-8134-564c5379f93e"]
+---
+time 1525315918
+new [description:"关注机器学习的新闻" entry:"1525315918" modified:"1525315918" priority:"M" project:"ML" status:"pending" uuid:"ff2296d3-ef9d-4ec8-a4bb-d5558a610cad"]
+---
+time 1525315949
+new [description:"把玩tensor flow" entry:"1525315949" modified:"1525315949" priority:"M" project:"ML" status:"pending" uuid:"27717d7d-bad1-42d9-992b-db4ff6fbbf8c"]
+---

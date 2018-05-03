@@ -65,3 +65,8 @@
 {"description":"减去h=0的态密度，以峰值画split","due":"20180430T162503Z","entry":"20180429T162503Z","modified":"20180429T164510Z","priority":"H","project":"working","start":"20180429T164510Z","status":"pending","uuid":"058ae090-473c-4879-be79-bcf0c5b45d5a"}
 {"description":"减去h=0的态密度，以峰值画split","due":"20180430T162503Z","end":"20180501T113349Z","entry":"20180429T162503Z","modified":"20180501T113349Z","priority":"H","project":"working","status":"completed","uuid":"058ae090-473c-4879-be79-bcf0c5b45d5a"}
 {"description":"改善小h的拟合，以提高精度","due":"20180430T162312Z","end":"20180502T083033Z","entry":"20180429T162312Z","modified":"20180502T083033Z","priority":"H","project":"working","status":"completed","uuid":"8c9b526e-d3de-4c66-8c3e-428fae5342c9"}
+{"description":"找F汇报","due":"20180503T133932Z","entry":"20180502T133932Z","modified":"20180502T133932Z","priority":"M","project":"working","status":"pending","uuid":"585ea9b5-3da7-434c-8134-564c5379f93e"}
+{"description":"确定stm-dos的参数","due":"20180429T160000Z","end":"20180502T134723Z","entry":"20180424T134307Z","modified":"20180502T134725Z","priority":"M","project":"NRG","status":"deleted","uuid":"c7ac2eef-0a3d-482c-acc0-f8f065db6ccf"}
+{"description":"找F汇报","due":"20180503T133932Z","entry":"20180502T133932Z","modified":"20180502T134736Z","priority":"M","project":"working","start":"20180502T134736Z","status":"pending","uuid":"585ea9b5-3da7-434c-8134-564c5379f93e"}
+{"description":"关注机器学习的新闻","entry":"20180503T025158Z","modified":"20180503T025158Z","priority":"M","project":"ML","status":"pending","uuid":"ff2296d3-ef9d-4ec8-a4bb-d5558a610cad"}
+{"description":"把玩tensor flow","entry":"20180503T025229Z","modified":"20180503T025229Z","priority":"M","project":"ML","status":"pending","uuid":"27717d7d-bad1-42d9-992b-db4ff6fbbf8c"}
