@@ -1784,3 +1784,12 @@ new [description:"关注机器学习的新闻" entry:"1525315918" modified:"1525
 time 1525315949
 new [description:"把玩tensor flow" entry:"1525315949" modified:"1525315949" priority:"M" project:"ML" status:"pending" uuid:"27717d7d-bad1-42d9-992b-db4ff6fbbf8c"]
 ---
+time 1525317564
+new [description:"完成google的机器学习速成课程，https:\/\/developers.google.cn\/machine-learning\/crash-course\/" entry:"1525317564" modified:"1525317564" priority:"M" project:"ML" status:"pending" uuid:"36fba851-5ba8-4437-a740-79e2a43b5987"]
+---
+time 1525317797
+new [description:"莫烦的机器学习教程,涵盖了Python、机器学习、数据处理等" entry:"1525317797" modified:"1525317797" priority:"M" project:"ML" status:"pending" uuid:"fec6a031-db05-42b9-8b54-b13da8a24a11"]
+---
+time 1525317950
+new [description:"学习TensorFlow中文社区http:\/\/www.tensorfly.cn\/tfdoc\/get_started\/introduction.html" entry:"1525317950" modified:"1525317950" priority:"M" project:"ML" status:"pending" uuid:"510b5cc4-63ca-44a2-b615-5be53bbb8e18"]
+---

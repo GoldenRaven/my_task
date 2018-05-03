@@ -70,3 +70,6 @@
 {"description":"找F汇报","due":"20180503T133932Z","entry":"20180502T133932Z","modified":"20180502T134736Z","priority":"M","project":"working","start":"20180502T134736Z","status":"pending","uuid":"585ea9b5-3da7-434c-8134-564c5379f93e"}
 {"description":"关注机器学习的新闻","entry":"20180503T025158Z","modified":"20180503T025158Z","priority":"M","project":"ML","status":"pending","uuid":"ff2296d3-ef9d-4ec8-a4bb-d5558a610cad"}
 {"description":"把玩tensor flow","entry":"20180503T025229Z","modified":"20180503T025229Z","priority":"M","project":"ML","status":"pending","uuid":"27717d7d-bad1-42d9-992b-db4ff6fbbf8c"}
+{"description":"完成google的机器学习速成课程，https:\/\/developers.google.cn\/machine-learning\/crash-course\/","entry":"20180503T031924Z","modified":"20180503T031924Z","priority":"M","project":"ML","status":"pending","uuid":"36fba851-5ba8-4437-a740-79e2a43b5987"}
+{"description":"莫烦的机器学习教程,涵盖了Python、机器学习、数据处理等","entry":"20180503T032317Z","modified":"20180503T032317Z","priority":"M","project":"ML","status":"pending","uuid":"fec6a031-db05-42b9-8b54-b13da8a24a11"}
+{"description":"学习TensorFlow中文社区http:\/\/www.tensorfly.cn\/tfdoc\/get_started\/introduction.html","entry":"20180503T032550Z","modified":"20180503T032550Z","priority":"M","project":"ML","status":"pending","uuid":"510b5cc4-63ca-44a2-b615-5be53bbb8e18"}
