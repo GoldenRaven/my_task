@@ -1793,3 +1793,20 @@ new [description:"莫烦的机器学习教程,涵盖了Python、机器学习、�
 time 1525317950
 new [description:"学习TensorFlow中文社区http:\/\/www.tensorfly.cn\/tfdoc\/get_started\/introduction.html" entry:"1525317950" modified:"1525317950" priority:"M" project:"ML" status:"pending" uuid:"510b5cc4-63ca-44a2-b615-5be53bbb8e18"]
 ---
+time 1525356651
+old [description:"找F汇报" due:"1525354772" entry:"1525268372" modified:"1525268856" priority:"M" project:"working" start:"1525268856" status:"pending" uuid:"585ea9b5-3da7-434c-8134-564c5379f93e"]
+new [description:"找F汇报" due:"1525354772" end:"1525356651" entry:"1525268372" modified:"1525356651" priority:"M" project:"working" status:"completed" uuid:"585ea9b5-3da7-434c-8134-564c5379f93e"]
+---
+time 1525356757
+new [description:"自洽确定横坐标范围与c2, c3" due:"1525443157" entry:"1525356757" modified:"1525356757" priority:"H" project:"working" status:"pending" uuid:"b2402db4-c02c-43cd-b751-d08e9572b509"]
+---
+time 1525396947
+new [description:"继续学完stanford NG的公开课" entry:"1525396947" modified:"1525396947" priority:"M" project:"ML" status:"pending" uuid:"43eb25c8-1fb8-4f4a-8c5a-a53027286268"]
+---
+time 1525397017
+new [description:"第周学习liao xue feng的python教程，并作笔记" entry:"1525397017" modified:"1525397017" priority:"M" project:"ML" status:"pending" uuid:"9345413a-ec91-4efb-bd3e-13b0a8f990d3"]
+---
+time 1525397039
+old [description:"第周学习liao xue feng的python教程，并作笔记" entry:"1525397017" modified:"1525397017" priority:"M" project:"ML" status:"pending" uuid:"9345413a-ec91-4efb-bd3e-13b0a8f990d3"]
+new [description:"第周学习liao xue feng的python教程，并作笔记" entry:"1525397017" modified:"1525397039" priority:"M" project:"ML" start:"1525397039" status:"pending" uuid:"9345413a-ec91-4efb-bd3e-13b0a8f990d3"]
+---
