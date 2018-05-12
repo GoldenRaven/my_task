@@ -10,6 +10,5 @@
 [description:"完成google的机器学习速成课程，https:\/\/developers.google.cn\/machine-learning\/crash-course\/" entry:"1525317564" modified:"1525317564" priority:"M" project:"ML" status:"pending" uuid:"36fba851-5ba8-4437-a740-79e2a43b5987"]
 [description:"莫烦的机器学习教程,涵盖了Python、机器学习、数据处理等" entry:"1525317797" modified:"1525317797" priority:"M" project:"ML" status:"pending" uuid:"fec6a031-db05-42b9-8b54-b13da8a24a11"]
 [description:"学习TensorFlow中文社区http:\/\/www.tensorfly.cn\/tfdoc\/get_started\/introduction.html" entry:"1525317950" modified:"1525317950" priority:"M" project:"ML" status:"pending" uuid:"510b5cc4-63ca-44a2-b615-5be53bbb8e18"]
-[description:"自洽确定横坐标范围与c2, c3" due:"1525443157" entry:"1525356757" modified:"1525356757" priority:"H" project:"working" status:"pending" uuid:"b2402db4-c02c-43cd-b751-d08e9572b509"]
 [description:"继续学完stanford NG的公开课" entry:"1525396947" modified:"1525396947" priority:"M" project:"ML" status:"pending" uuid:"43eb25c8-1fb8-4f4a-8c5a-a53027286268"]
 [description:"第周学习liao xue feng的python教程，并作笔记" entry:"1525397017" modified:"1525397039" priority:"M" project:"ML" start:"1525397039" status:"pending" uuid:"9345413a-ec91-4efb-bd3e-13b0a8f990d3"]

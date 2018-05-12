@@ -1810,3 +1810,14 @@ time 1525397039
 old [description:"第周学习liao xue feng的python教程，并作笔记" entry:"1525397017" modified:"1525397017" priority:"M" project:"ML" status:"pending" uuid:"9345413a-ec91-4efb-bd3e-13b0a8f990d3"]
 new [description:"第周学习liao xue feng的python教程，并作笔记" entry:"1525397017" modified:"1525397039" priority:"M" project:"ML" start:"1525397039" status:"pending" uuid:"9345413a-ec91-4efb-bd3e-13b0a8f990d3"]
 ---
+time 1526110201
+new [description:"找F汇报" due:"1526140800" entry:"1526110201" modified:"1526110201" priority:"H" project:"working" status:"pending" uuid:"c0eecb65-fd20-4e77-b72d-0efce0dea44c"]
+---
+time 1526110219
+old [description:"自洽确定横坐标范围与c2, c3" due:"1525443157" entry:"1525356757" modified:"1525356757" priority:"H" project:"working" status:"pending" uuid:"b2402db4-c02c-43cd-b751-d08e9572b509"]
+new [description:"自洽确定横坐标范围与c2, c3" due:"1525443157" end:"1526110219" entry:"1525356757" modified:"1526110219" priority:"H" project:"working" status:"completed" uuid:"b2402db4-c02c-43cd-b751-d08e9572b509"]
+---
+time 1526135222
+old [description:"找F汇报" due:"1526140800" entry:"1526110201" modified:"1526110201" priority:"H" project:"working" status:"pending" uuid:"c0eecb65-fd20-4e77-b72d-0efce0dea44c"]
+new [description:"找F汇报" due:"1526140800" end:"1526135222" entry:"1526110201" modified:"1526135222" priority:"H" project:"working" status:"completed" uuid:"c0eecb65-fd20-4e77-b72d-0efce0dea44c"]
+---
