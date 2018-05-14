@@ -12,3 +12,4 @@
 [description:"学习TensorFlow中文社区http:\/\/www.tensorfly.cn\/tfdoc\/get_started\/introduction.html" entry:"1525317950" modified:"1525317950" priority:"M" project:"ML" status:"pending" uuid:"510b5cc4-63ca-44a2-b615-5be53bbb8e18"]
 [description:"继续学完stanford NG的公开课" entry:"1525396947" modified:"1525396947" priority:"M" project:"ML" status:"pending" uuid:"43eb25c8-1fb8-4f4a-8c5a-a53027286268"]
 [description:"第周学习liao xue feng的python教程，并作笔记" entry:"1525397017" modified:"1525397039" priority:"M" project:"ML" start:"1525397039" status:"pending" uuid:"9345413a-ec91-4efb-bd3e-13b0a8f990d3"]
+[description:"总结negative" due:"1526313600" entry:"1526277019" modified:"1526277019" priority:"H" project:"working" status:"pending" uuid:"439f880a-2824-4283-9375-ccdcd8db844b"]

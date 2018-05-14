@@ -1821,3 +1821,20 @@ time 1526135222
 old [description:"找F汇报" due:"1526140800" entry:"1526110201" modified:"1526110201" priority:"H" project:"working" status:"pending" uuid:"c0eecb65-fd20-4e77-b72d-0efce0dea44c"]
 new [description:"找F汇报" due:"1526140800" end:"1526135222" entry:"1526110201" modified:"1526135222" priority:"H" project:"working" status:"completed" uuid:"c0eecb65-fd20-4e77-b72d-0efce0dea44c"]
 ---
+time 1526277019
+new [description:"总结negative" due:"1526313600" entry:"1526277019" modified:"1526277019" priority:"H" project:"working" status:"pending" uuid:"439f880a-2824-4283-9375-ccdcd8db844b"]
+---
+time 1526277074
+new [description:"去掉震荡的点，并在fit上标记出来" due:"1526313600" entry:"1526277074" modified:"1526277074" priority:"H" project:"working" status:"pending" uuid:"af50c089-bdd2-4417-a5ba-3201bceaccf3"]
+---
+time 1526277145
+new [description:"增大优化时的迭代步数，有无改善" due:"1526313600" entry:"1526277145" modified:"1526277145" priority:"H" project:"working" status:"pending" uuid:"318ce34f-c19d-4275-91d4-58d7e7003d8a"]
+---
+time 1526296661
+old [description:"去掉震荡的点，并在fit上标记出来" due:"1526313600" entry:"1526277074" modified:"1526277074" priority:"H" project:"working" status:"pending" uuid:"af50c089-bdd2-4417-a5ba-3201bceaccf3"]
+new [description:"去掉震荡的点，并在fit上标记出来" due:"1526313600" end:"1526296661" entry:"1526277074" modified:"1526296661" priority:"H" project:"working" status:"completed" uuid:"af50c089-bdd2-4417-a5ba-3201bceaccf3"]
+---
+time 1526296674
+old [description:"增大优化时的迭代步数，有无改善" due:"1526313600" entry:"1526277145" modified:"1526277145" priority:"H" project:"working" status:"pending" uuid:"318ce34f-c19d-4275-91d4-58d7e7003d8a"]
+new [description:"增大优化时的迭代步数，有无改善" due:"1526313600" end:"1526296674" entry:"1526277145" modified:"1526296674" priority:"H" project:"working" status:"completed" uuid:"318ce34f-c19d-4275-91d4-58d7e7003d8a"]
+---
