@@ -1838,3 +1838,14 @@ time 1526296674
 old [description:"增大优化时的迭代步数，有无改善" due:"1526313600" entry:"1526277145" modified:"1526277145" priority:"H" project:"working" status:"pending" uuid:"318ce34f-c19d-4275-91d4-58d7e7003d8a"]
 new [description:"增大优化时的迭代步数，有无改善" due:"1526313600" end:"1526296674" entry:"1526277145" modified:"1526296674" priority:"H" project:"working" status:"completed" uuid:"318ce34f-c19d-4275-91d4-58d7e7003d8a"]
 ---
+time 1526482989
+old [description:"总结negative" due:"1526313600" entry:"1526277019" modified:"1526277019" priority:"H" project:"working" status:"pending" uuid:"439f880a-2824-4283-9375-ccdcd8db844b"]
+new [description:"总结negative" due:"1526313600" end:"1526482989" entry:"1526277019" modified:"1526482989" priority:"H" project:"working" status:"completed" uuid:"439f880a-2824-4283-9375-ccdcd8db844b"]
+---
+time 1526873243
+new [description:"修改图片以更鲜明地表现主题" entry:"1526873243" modified:"1526873243" priority:"L" project:"working" status:"pending" uuid:"823a7c46-b70b-40d8-8393-2e10574b7b24"]
+---
+time 1526873274
+old [description:"修改图片以更鲜明地表现主题" entry:"1526873243" modified:"1526873243" priority:"L" project:"working" status:"pending" uuid:"823a7c46-b70b-40d8-8393-2e10574b7b24"]
+new [description:"修改图片以更鲜明地表现主题" entry:"1526873243" modified:"1526873274" priority:"L" project:"working" start:"1526873274" status:"pending" uuid:"823a7c46-b70b-40d8-8393-2e10574b7b24"]
+---

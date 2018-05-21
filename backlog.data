@@ -86,3 +86,6 @@
 {"description":"增大优化时的迭代步数，有无改善","due":"20180514T160000Z","entry":"20180514T055225Z","modified":"20180514T055225Z","priority":"H","project":"working","status":"pending","uuid":"318ce34f-c19d-4275-91d4-58d7e7003d8a"}
 {"description":"去掉震荡的点，并在fit上标记出来","due":"20180514T160000Z","end":"20180514T111741Z","entry":"20180514T055114Z","modified":"20180514T111741Z","priority":"H","project":"working","status":"completed","uuid":"af50c089-bdd2-4417-a5ba-3201bceaccf3"}
 {"description":"增大优化时的迭代步数，有无改善","due":"20180514T160000Z","end":"20180514T111754Z","entry":"20180514T055225Z","modified":"20180514T111754Z","priority":"H","project":"working","status":"completed","uuid":"318ce34f-c19d-4275-91d4-58d7e7003d8a"}
+{"description":"总结negative","due":"20180514T160000Z","end":"20180516T150309Z","entry":"20180514T055019Z","modified":"20180516T150309Z","priority":"H","project":"working","status":"completed","uuid":"439f880a-2824-4283-9375-ccdcd8db844b"}
+{"description":"修改图片以更鲜明地表现主题","entry":"20180521T032723Z","modified":"20180521T032723Z","priority":"L","project":"working","status":"pending","uuid":"823a7c46-b70b-40d8-8393-2e10574b7b24"}
+{"description":"修改图片以更鲜明地表现主题","entry":"20180521T032723Z","modified":"20180521T032754Z","priority":"L","project":"working","start":"20180521T032754Z","status":"pending","uuid":"823a7c46-b70b-40d8-8393-2e10574b7b24"}
