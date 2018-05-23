@@ -1849,3 +1849,21 @@ time 1526873274
 old [description:"修改图片以更鲜明地表现主题" entry:"1526873243" modified:"1526873243" priority:"L" project:"working" status:"pending" uuid:"823a7c46-b70b-40d8-8393-2e10574b7b24"]
 new [description:"修改图片以更鲜明地表现主题" entry:"1526873243" modified:"1526873274" priority:"L" project:"working" start:"1526873274" status:"pending" uuid:"823a7c46-b70b-40d8-8393-2e10574b7b24"]
 ---
+time 1526914293
+new [description:"新建github项目来保存python学习笔记" entry:"1526914293" modified:"1526914293" priority:"L" status:"pending" uuid:"adb6de14-1a57-494c-8506-c6475ee0bd01"]
+---
+time 1526914302
+old [description:"新建github项目来保存python学习笔记" entry:"1526914293" modified:"1526914293" priority:"L" status:"pending" uuid:"adb6de14-1a57-494c-8506-c6475ee0bd01"]
+new [description:"新建github项目来保存python学习笔记" entry:"1526914293" modified:"1526914302" priority:"L" start:"1526914302" status:"pending" uuid:"adb6de14-1a57-494c-8506-c6475ee0bd01"]
+---
+time 1527066517
+new [description:"关闭本征能量输出以减少磁盘占用" entry:"1527066517" modified:"1527066517" priority:"H" project:"NRG" status:"pending" uuid:"2a0b33a4-bcdf-499e-9cbb-65239fb59103"]
+---
+time 1527066536
+old [description:"新建github项目来保存python学习笔记" entry:"1526914293" modified:"1526914302" priority:"L" start:"1526914302" status:"pending" uuid:"adb6de14-1a57-494c-8506-c6475ee0bd01"]
+new [description:"新建github项目来保存python学习笔记" end:"1527066536" entry:"1526914293" modified:"1527066536" priority:"L" status:"completed" uuid:"adb6de14-1a57-494c-8506-c6475ee0bd01"]
+---
+time 1527066548
+old [description:"关闭本征能量输出以减少磁盘占用" entry:"1527066517" modified:"1527066517" priority:"H" project:"NRG" status:"pending" uuid:"2a0b33a4-bcdf-499e-9cbb-65239fb59103"]
+new [description:"关闭本征能量输出以减少磁盘占用" entry:"1527066517" modified:"1527066548" priority:"H" project:"NRG" start:"1527066548" status:"pending" uuid:"2a0b33a4-bcdf-499e-9cbb-65239fb59103"]
+---

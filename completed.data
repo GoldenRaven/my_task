@@ -1,3 +1,4 @@
+[description:"新建github项目来保存python学习笔记" end:"1527066536" entry:"1526914293" modified:"1527066536" priority:"L" status:"completed" uuid:"adb6de14-1a57-494c-8506-c6475ee0bd01"]
 [description:"总结negative" due:"1526313600" end:"1526482989" entry:"1526277019" modified:"1526482989" priority:"H" project:"working" status:"completed" uuid:"439f880a-2824-4283-9375-ccdcd8db844b"]
 [description:"增大优化时的迭代步数，有无改善" due:"1526313600" end:"1526296674" entry:"1526277145" modified:"1526296674" priority:"H" project:"working" status:"completed" uuid:"318ce34f-c19d-4275-91d4-58d7e7003d8a"]
 [description:"去掉震荡的点，并在fit上标记出来" due:"1526313600" end:"1526296661" entry:"1526277074" modified:"1526296661" priority:"H" project:"working" status:"completed" uuid:"af50c089-bdd2-4417-a5ba-3201bceaccf3"]

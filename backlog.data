@@ -89,3 +89,8 @@
 {"description":"总结negative","due":"20180514T160000Z","end":"20180516T150309Z","entry":"20180514T055019Z","modified":"20180516T150309Z","priority":"H","project":"working","status":"completed","uuid":"439f880a-2824-4283-9375-ccdcd8db844b"}
 {"description":"修改图片以更鲜明地表现主题","entry":"20180521T032723Z","modified":"20180521T032723Z","priority":"L","project":"working","status":"pending","uuid":"823a7c46-b70b-40d8-8393-2e10574b7b24"}
 {"description":"修改图片以更鲜明地表现主题","entry":"20180521T032723Z","modified":"20180521T032754Z","priority":"L","project":"working","start":"20180521T032754Z","status":"pending","uuid":"823a7c46-b70b-40d8-8393-2e10574b7b24"}
+{"description":"新建github项目来保存python学习笔记","entry":"20180521T145133Z","modified":"20180521T145133Z","priority":"L","status":"pending","uuid":"adb6de14-1a57-494c-8506-c6475ee0bd01"}
+{"description":"新建github项目来保存python学习笔记","entry":"20180521T145133Z","modified":"20180521T145142Z","priority":"L","start":"20180521T145142Z","status":"pending","uuid":"adb6de14-1a57-494c-8506-c6475ee0bd01"}
+{"description":"关闭本征能量输出以减少磁盘占用","entry":"20180523T090837Z","modified":"20180523T090837Z","priority":"H","project":"NRG","status":"pending","uuid":"2a0b33a4-bcdf-499e-9cbb-65239fb59103"}
+{"description":"新建github项目来保存python学习笔记","end":"20180523T090856Z","entry":"20180521T145133Z","modified":"20180523T090856Z","priority":"L","status":"completed","uuid":"adb6de14-1a57-494c-8506-c6475ee0bd01"}
+{"description":"关闭本征能量输出以减少磁盘占用","entry":"20180523T090837Z","modified":"20180523T090908Z","priority":"H","project":"NRG","start":"20180523T090908Z","status":"pending","uuid":"2a0b33a4-bcdf-499e-9cbb-65239fb59103"}
