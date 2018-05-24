@@ -94,3 +94,5 @@
 {"description":"关闭本征能量输出以减少磁盘占用","entry":"20180523T090837Z","modified":"20180523T090837Z","priority":"H","project":"NRG","status":"pending","uuid":"2a0b33a4-bcdf-499e-9cbb-65239fb59103"}
 {"description":"新建github项目来保存python学习笔记","end":"20180523T090856Z","entry":"20180521T145133Z","modified":"20180523T090856Z","priority":"L","status":"completed","uuid":"adb6de14-1a57-494c-8506-c6475ee0bd01"}
 {"description":"关闭本征能量输出以减少磁盘占用","entry":"20180523T090837Z","modified":"20180523T090908Z","priority":"H","project":"NRG","start":"20180523T090908Z","status":"pending","uuid":"2a0b33a4-bcdf-499e-9cbb-65239fb59103"}
+{"description":"必须每天，至少经常关注Arxiv上的相关动态．","entry":"20170327T024132Z","modified":"20180524T075108Z","priority":"H","project":"working","status":"pending","uuid":"bb0143c1-4057-4420-b6db-0a7d79391732"}
+{"description":"备份资料","due":"20180502T162531Z","end":"20180524T075125Z","entry":"20180424T063313Z","modified":"20180524T075125Z","priority":"H","project":"working","status":"completed","uuid":"1ec12e9f-1f89-414a-b8ef-7f94a6bc5b76"}
