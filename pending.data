@@ -12,4 +12,5 @@
 [description:"继续学完stanford NG的公开课" entry:"1525396947" modified:"1525396947" priority:"M" project:"ML" status:"pending" uuid:"43eb25c8-1fb8-4f4a-8c5a-a53027286268"]
 [description:"第周学习liao xue feng的python教程，并作笔记" entry:"1525397017" modified:"1525397039" priority:"M" project:"ML" start:"1525397039" status:"pending" uuid:"9345413a-ec91-4efb-bd3e-13b0a8f990d3"]
 [description:"修改图片以更鲜明地表现主题" entry:"1526873243" modified:"1526873274" priority:"L" project:"working" start:"1526873274" status:"pending" uuid:"823a7c46-b70b-40d8-8393-2e10574b7b24"]
-[description:"关闭本征能量输出以减少磁盘占用" entry:"1527066517" modified:"1527066548" priority:"H" project:"NRG" start:"1527066548" status:"pending" uuid:"2a0b33a4-bcdf-499e-9cbb-65239fb59103"]
+[description:"修改文章中red solid, 还是solid red" entry:"1527303655" modified:"1527303667" priority:"M" project:"working" start:"1527303667" status:"pending" uuid:"919efd12-f509-4e3e-af82-3474cd1f6cda"]
+[description:"emacs26.1.1更新？ piority:L" entry:"1527664703" modified:"1527664703" project:"note" status:"pending" uuid:"c1130a28-2e39-4d97-98bd-25aa6e9d6f19"]

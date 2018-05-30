@@ -1875,3 +1875,17 @@ time 1527148285
 old [description:"备份资料" due:"1525278331" entry:"1524551593" modified:"1525019131" priority:"H" project:"working" status:"pending" uuid:"1ec12e9f-1f89-414a-b8ef-7f94a6bc5b76"]
 new [description:"备份资料" due:"1525278331" end:"1527148285" entry:"1524551593" modified:"1527148285" priority:"H" project:"working" status:"completed" uuid:"1ec12e9f-1f89-414a-b8ef-7f94a6bc5b76"]
 ---
+time 1527303655
+new [description:"修改文章中red solid, 还是solid red" entry:"1527303655" modified:"1527303655" priority:"M" project:"working" status:"pending" uuid:"919efd12-f509-4e3e-af82-3474cd1f6cda"]
+---
+time 1527303667
+old [description:"修改文章中red solid, 还是solid red" entry:"1527303655" modified:"1527303655" priority:"M" project:"working" status:"pending" uuid:"919efd12-f509-4e3e-af82-3474cd1f6cda"]
+new [description:"修改文章中red solid, 还是solid red" entry:"1527303655" modified:"1527303667" priority:"M" project:"working" start:"1527303667" status:"pending" uuid:"919efd12-f509-4e3e-af82-3474cd1f6cda"]
+---
+time 1527509476
+old [description:"关闭本征能量输出以减少磁盘占用" entry:"1527066517" modified:"1527066548" priority:"H" project:"NRG" start:"1527066548" status:"pending" uuid:"2a0b33a4-bcdf-499e-9cbb-65239fb59103"]
+new [description:"关闭本征能量输出以减少磁盘占用" end:"1527509476" entry:"1527066517" modified:"1527509476" priority:"H" project:"NRG" status:"completed" uuid:"2a0b33a4-bcdf-499e-9cbb-65239fb59103"]
+---
+time 1527664703
+new [description:"emacs26.1.1更新？ piority:L" entry:"1527664703" modified:"1527664703" project:"note" status:"pending" uuid:"c1130a28-2e39-4d97-98bd-25aa6e9d6f19"]
+---
