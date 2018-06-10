@@ -1889,3 +1889,22 @@ new [description:"关闭本征能量输出以减少磁盘占用" end:"1527509476
 time 1527664703
 new [description:"emacs26.1.1更新？ piority:L" entry:"1527664703" modified:"1527664703" project:"note" status:"pending" uuid:"c1130a28-2e39-4d97-98bd-25aa6e9d6f19"]
 ---
+time 1528275493
+old [description:"emacs26.1.1更新？ piority:L" entry:"1527664703" modified:"1527664703" project:"note" status:"pending" uuid:"c1130a28-2e39-4d97-98bd-25aa6e9d6f19"]
+new [description:"emacs26.1.1更新？ piority:L" end:"1528275493" entry:"1527664703" modified:"1528275493" project:"note" status:"completed" uuid:"c1130a28-2e39-4d97-98bd-25aa6e9d6f19"]
+---
+time 1528387978
+new [description:"给arch添加times new roman字体" due:"1528474378" entry:"1528387978" modified:"1528387978" priority:"H" project:"note" status:"pending" uuid:"1d712e1d-22d2-41bf-b0f9-ce92e7e0bf3b"]
+---
+time 1528650041
+old [description:"给arch添加times new roman字体" due:"1528474378" entry:"1528387978" modified:"1528387978" priority:"H" project:"note" status:"pending" uuid:"1d712e1d-22d2-41bf-b0f9-ce92e7e0bf3b"]
+new [description:"给arch添加times new roman字体" due:"1528474378" end:"1528650041" entry:"1528387978" modified:"1528650041" priority:"H" project:"note" status:"completed" uuid:"1d712e1d-22d2-41bf-b0f9-ce92e7e0bf3b"]
+---
+time 1528650074
+old [description:"关注机器学习的新闻" entry:"1525315918" modified:"1525315918" priority:"M" project:"ML" status:"pending" uuid:"ff2296d3-ef9d-4ec8-a4bb-d5558a610cad"]
+new [description:"关注机器学习的新闻" entry:"1525315918" modified:"1528650074" priority:"M" project:"ML" start:"1528650074" status:"pending" uuid:"ff2296d3-ef9d-4ec8-a4bb-d5558a610cad"]
+---
+time 1528650094
+old [description:"第周学习liao xue feng的python教程，并作笔记" entry:"1525397017" modified:"1525397039" priority:"M" project:"ML" start:"1525397039" status:"pending" uuid:"9345413a-ec91-4efb-bd3e-13b0a8f990d3"]
+new [description:"第周学习liao xue feng的python教程，并作笔记" entry:"1525397017" modified:"1528650094" priority:"M" project:"ML" status:"pending" uuid:"9345413a-ec91-4efb-bd3e-13b0a8f990d3"]
+---

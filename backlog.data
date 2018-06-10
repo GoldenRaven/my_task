@@ -100,3 +100,8 @@
 {"description":"修改文章中red solid, 还是solid red","entry":"20180526T030055Z","modified":"20180526T030107Z","priority":"M","project":"working","start":"20180526T030107Z","status":"pending","uuid":"919efd12-f509-4e3e-af82-3474cd1f6cda"}
 {"description":"关闭本征能量输出以减少磁盘占用","end":"20180528T121116Z","entry":"20180523T090837Z","modified":"20180528T121116Z","priority":"H","project":"NRG","status":"completed","uuid":"2a0b33a4-bcdf-499e-9cbb-65239fb59103"}
 {"description":"emacs26.1.1更新？ piority:L","entry":"20180530T071823Z","modified":"20180530T071823Z","project":"note","status":"pending","uuid":"c1130a28-2e39-4d97-98bd-25aa6e9d6f19"}
+{"description":"emacs26.1.1更新？ piority:L","end":"20180606T085813Z","entry":"20180530T071823Z","modified":"20180606T085813Z","project":"note","status":"completed","uuid":"c1130a28-2e39-4d97-98bd-25aa6e9d6f19"}
+{"description":"给arch添加times new roman字体","due":"20180608T161258Z","entry":"20180607T161258Z","modified":"20180607T161258Z","priority":"H","project":"note","status":"pending","uuid":"1d712e1d-22d2-41bf-b0f9-ce92e7e0bf3b"}
+{"description":"给arch添加times new roman字体","due":"20180608T161258Z","end":"20180610T170041Z","entry":"20180607T161258Z","modified":"20180610T170041Z","priority":"H","project":"note","status":"completed","uuid":"1d712e1d-22d2-41bf-b0f9-ce92e7e0bf3b"}
+{"description":"关注机器学习的新闻","entry":"20180503T025158Z","modified":"20180610T170114Z","priority":"M","project":"ML","start":"20180610T170114Z","status":"pending","uuid":"ff2296d3-ef9d-4ec8-a4bb-d5558a610cad"}
+{"description":"第周学习liao xue feng的python教程，并作笔记","entry":"20180504T012337Z","modified":"20180610T170134Z","priority":"M","project":"ML","status":"pending","uuid":"9345413a-ec91-4efb-bd3e-13b0a8f990d3"}
