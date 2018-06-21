@@ -113,3 +113,6 @@
 {"description":"修改文章中red solid, 还是solid red","entry":"20180526T030055Z","modified":"20180612T141545Z","priority":"M","project":"paper","start":"20180526T030107Z","status":"pending","uuid":"919efd12-f509-4e3e-af82-3474cd1f6cda"}
 {"description":"修改图片以更鲜明地表现主题","entry":"20180521T032723Z","modified":"20180612T141555Z","priority":"L","project":"paper","start":"20180521T032754Z","status":"pending","uuid":"823a7c46-b70b-40d8-8393-2e10574b7b24"}
 {"description":"尽快作好简历，PPT5分钟，及发邮件","entry":"20180619T063915Z","modified":"20180619T063915Z","priority":"H","project":"9th_institution","status":"pending","uuid":"3adae299-3829-4e94-bcdf-abcd60e747d2"}
+{"description":"近物所导师名字","entry":"20180621T143038Z","modified":"20180621T143038Z","project":"H","status":"pending","uuid":"59d6aa2d-2a77-4804-a05e-719298ca2d33"}
+{"description":"尽快作好简历，PPT5分钟，及发邮件","entry":"20180619T063915Z","modified":"20180621T143105Z","priority":"H","project":"9th_institution","start":"20180621T143105Z","status":"pending","uuid":"3adae299-3829-4e94-bcdf-abcd60e747d2"}
+{"description":"近物所导师名字","entry":"20180621T143038Z","modified":"20180621T143156Z","project":"H","start":"20180621T143156Z","status":"pending","uuid":"59d6aa2d-2a77-4804-a05e-719298ca2d33"}
