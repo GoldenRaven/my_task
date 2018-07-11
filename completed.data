@@ -1,3 +1,4 @@
+[description:"对称是symmetric还是symmetrical" end:"1531302316" entry:"1528812854" modified:"1531302316" priority:"M" project:"paper" status:"completed" uuid:"c14a3277-7600-4c7c-8a2f-e527d815602f"]
 [description:"给arch添加times new roman字体" due:"1528474378" end:"1528650041" entry:"1528387978" modified:"1528650041" priority:"H" project:"note" status:"completed" uuid:"1d712e1d-22d2-41bf-b0f9-ce92e7e0bf3b"]
 [description:"emacs26.1.1更新？ piority:L" end:"1528275493" entry:"1527664703" modified:"1528275493" project:"note" status:"completed" uuid:"c1130a28-2e39-4d97-98bd-25aa6e9d6f19"]
 [description:"关闭本征能量输出以减少磁盘占用" end:"1527509476" entry:"1527066517" modified:"1527509476" priority:"H" project:"NRG" status:"completed" uuid:"2a0b33a4-bcdf-499e-9cbb-65239fb59103"]
