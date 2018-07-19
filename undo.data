@@ -1956,3 +1956,7 @@ time 1531302316
 old [description:"对称是symmetric还是symmetrical" entry:"1528812854" modified:"1528812917" priority:"M" project:"paper" start:"1528812869" status:"pending" uuid:"c14a3277-7600-4c7c-8a2f-e527d815602f"]
 new [description:"对称是symmetric还是symmetrical" end:"1531302316" entry:"1528812854" modified:"1531302316" priority:"M" project:"paper" status:"completed" uuid:"c14a3277-7600-4c7c-8a2f-e527d815602f"]
 ---
+time 1532014863
+old [description:"尽快作好简历，PPT5分钟，及发邮件" entry:"1529390355" modified:"1529591465" priority:"H" project:"9th_institution" start:"1529591465" status:"pending" uuid:"3adae299-3829-4e94-bcdf-abcd60e747d2"]
+new [description:"尽快作好简历，PPT5分钟，及发邮件" end:"1532014863" entry:"1529390355" modified:"1532014863" priority:"H" project:"9th_institution" status:"completed" uuid:"3adae299-3829-4e94-bcdf-abcd60e747d2"]
+---
