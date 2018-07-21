@@ -119,3 +119,8 @@
 {"description":"问罗老师副导师的院办手续问题","entry":"20180711T094458Z","modified":"20180711T094458Z","priority":"L","project":"note","status":"pending","uuid":"bfa392f1-e3d6-4a3a-8a13-298fde2dcb27"}
 {"description":"对称是symmetric还是symmetrical","end":"20180711T094516Z","entry":"20180612T141414Z","modified":"20180711T094516Z","priority":"M","project":"paper","status":"completed","uuid":"c14a3277-7600-4c7c-8a2f-e527d815602f"}
 {"description":"尽快作好简历，PPT5分钟，及发邮件","end":"20180719T154103Z","entry":"20180619T063915Z","modified":"20180719T154103Z","priority":"H","project":"9th_institution","status":"completed","uuid":"3adae299-3829-4e94-bcdf-abcd60e747d2"}
+{"description":"至少找到三个可作的题目","entry":"20180721T084338Z","modified":"20180721T084338Z","priority":"H","project":"working","status":"pending","uuid":"31181367-3538-4c39-a699-723a9196d494"}
+{"description":"至少找到三个可作的题目","due":"20180728T084412Z","entry":"20180721T084338Z","modified":"20180721T084412Z","priority":"H","project":"working","status":"pending","uuid":"31181367-3538-4c39-a699-723a9196d494"}
+{"description":"至少找到三个可作的题目","due":"20180728T084412Z","entry":"20180721T084338Z","modified":"20180721T084421Z","priority":"H","project":"working","start":"20180721T084421Z","status":"pending","uuid":"31181367-3538-4c39-a699-723a9196d494"}
+{"description":"学习python","entry":"20151126T032846Z","modified":"20180721T084445Z","priority":"H","project":"python-learning","start":"20180721T084445Z","status":"pending","uuid":"5a1b81cd-9ca6-458f-a80a-37c56d77608d"}
+{"description":"第周学习liao xue feng的python教程，并作笔记","entry":"20180504T012337Z","modified":"20180721T084527Z","priority":"M","project":"ML","start":"20180721T084527Z","status":"pending","uuid":"9345413a-ec91-4efb-bd3e-13b0a8f990d3"}

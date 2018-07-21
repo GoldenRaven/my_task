@@ -1960,3 +1960,22 @@ time 1532014863
 old [description:"尽快作好简历，PPT5分钟，及发邮件" entry:"1529390355" modified:"1529591465" priority:"H" project:"9th_institution" start:"1529591465" status:"pending" uuid:"3adae299-3829-4e94-bcdf-abcd60e747d2"]
 new [description:"尽快作好简历，PPT5分钟，及发邮件" end:"1532014863" entry:"1529390355" modified:"1532014863" priority:"H" project:"9th_institution" status:"completed" uuid:"3adae299-3829-4e94-bcdf-abcd60e747d2"]
 ---
+time 1532162618
+new [description:"至少找到三个可作的题目" entry:"1532162618" modified:"1532162618" priority:"H" project:"working" status:"pending" uuid:"31181367-3538-4c39-a699-723a9196d494"]
+---
+time 1532162652
+old [description:"至少找到三个可作的题目" entry:"1532162618" modified:"1532162618" priority:"H" project:"working" status:"pending" uuid:"31181367-3538-4c39-a699-723a9196d494"]
+new [description:"至少找到三个可作的题目" due:"1532767452" entry:"1532162618" modified:"1532162652" priority:"H" project:"working" status:"pending" uuid:"31181367-3538-4c39-a699-723a9196d494"]
+---
+time 1532162661
+old [description:"至少找到三个可作的题目" due:"1532767452" entry:"1532162618" modified:"1532162652" priority:"H" project:"working" status:"pending" uuid:"31181367-3538-4c39-a699-723a9196d494"]
+new [description:"至少找到三个可作的题目" due:"1532767452" entry:"1532162618" modified:"1532162661" priority:"H" project:"working" start:"1532162661" status:"pending" uuid:"31181367-3538-4c39-a699-723a9196d494"]
+---
+time 1532162685
+old [description:"学习python" entry:"1448508526" modified:"1450667946" priority:"H" project:"python-learning" status:"pending" uuid:"5a1b81cd-9ca6-458f-a80a-37c56d77608d"]
+new [description:"学习python" entry:"1448508526" modified:"1532162685" priority:"H" project:"python-learning" start:"1532162685" status:"pending" uuid:"5a1b81cd-9ca6-458f-a80a-37c56d77608d"]
+---
+time 1532162727
+old [description:"第周学习liao xue feng的python教程，并作笔记" entry:"1525397017" modified:"1528650094" priority:"M" project:"ML" status:"pending" uuid:"9345413a-ec91-4efb-bd3e-13b0a8f990d3"]
+new [description:"第周学习liao xue feng的python教程，并作笔记" entry:"1525397017" modified:"1532162727" priority:"M" project:"ML" start:"1532162727" status:"pending" uuid:"9345413a-ec91-4efb-bd3e-13b0a8f990d3"]
+---
