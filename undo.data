@@ -1979,3 +1979,6 @@ time 1532162727
 old [description:"第周学习liao xue feng的python教程，并作笔记" entry:"1525397017" modified:"1528650094" priority:"M" project:"ML" status:"pending" uuid:"9345413a-ec91-4efb-bd3e-13b0a8f990d3"]
 new [description:"第周学习liao xue feng的python教程，并作笔记" entry:"1525397017" modified:"1532162727" priority:"M" project:"ML" start:"1532162727" status:"pending" uuid:"9345413a-ec91-4efb-bd3e-13b0a8f990d3"]
 ---
+time 1532243578
+new [description:"什么是局域磁矩?以及局域磁矩的形成条件?" due:"1532275200" entry:"1532243578" modified:"1532243578" priority:"H" project:"working" status:"pending" uuid:"82f45d14-3afb-47f1-84c4-234d9141d2b3"]
+---

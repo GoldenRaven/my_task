@@ -124,3 +124,4 @@
 {"description":"至少找到三个可作的题目","due":"20180728T084412Z","entry":"20180721T084338Z","modified":"20180721T084421Z","priority":"H","project":"working","start":"20180721T084421Z","status":"pending","uuid":"31181367-3538-4c39-a699-723a9196d494"}
 {"description":"学习python","entry":"20151126T032846Z","modified":"20180721T084445Z","priority":"H","project":"python-learning","start":"20180721T084445Z","status":"pending","uuid":"5a1b81cd-9ca6-458f-a80a-37c56d77608d"}
 {"description":"第周学习liao xue feng的python教程，并作笔记","entry":"20180504T012337Z","modified":"20180721T084527Z","priority":"M","project":"ML","start":"20180721T084527Z","status":"pending","uuid":"9345413a-ec91-4efb-bd3e-13b0a8f990d3"}
+{"description":"什么是局域磁矩?以及局域磁矩的形成条件?","due":"20180722T160000Z","entry":"20180722T071258Z","modified":"20180722T071258Z","priority":"H","project":"working","status":"pending","uuid":"82f45d14-3afb-47f1-84c4-234d9141d2b3"}
