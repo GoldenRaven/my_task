@@ -128,3 +128,10 @@
 {"description":"什么是局域磁矩?以及局域磁矩的形成条件? 在加上很小的h后,n_up不等于n_down","due":"20180722T160000Z","entry":"20180722T071258Z","modified":"20180730T134534Z","priority":"H","project":"working","status":"pending","uuid":"82f45d14-3afb-47f1-84c4-234d9141d2b3"}
 {"description":"什么是局域磁矩?以及局域磁矩的形成条件? 在加上很小的h后,n_up不等于n_down","due":"20180722T160000Z","end":"20180730T134625Z","entry":"20180722T071258Z","modified":"20180730T134625Z","priority":"H","project":"working","status":"completed","uuid":"82f45d14-3afb-47f1-84c4-234d9141d2b3"}
 {"description":"问罗老师副导师的院办手续问题","entry":"20180711T094458Z","modified":"20180730T134639Z","priority":"L","project":"note","start":"20180730T134639Z","status":"pending","uuid":"bfa392f1-e3d6-4a3a-8a13-298fde2dcb27"}
+{"description":"加参考文献","entry":"20180910T135839Z","modified":"20180910T135839Z","priority":"H","project":"paper","status":"pending","uuid":"43b4b636-1229-4cf8-af21-29ac226a7ca6"}
+{"description":"加公式","entry":"20180910T135937Z","modified":"20180910T135937Z","priority":"H","project":"paper","status":"pending","uuid":"3d79c54d-e642-43df-af22-b4896f2bb0e5"}
+{"description":"统一参考文献格式","entry":"20180910T140010Z","modified":"20180910T140010Z","priority":"H","project":"paper","status":"pending","uuid":"2a6b9e81-8bc6-46cc-b916-fc41c288f482"}
+{"description":"一段一行","entry":"20180910T140039Z","modified":"20180910T140039Z","priority":"H","project":"paper","status":"pending","uuid":"7fc9d8a3-9e53-4b39-994b-4db9c284dc01"}
+{"description":"加数据","entry":"20180910T140105Z","modified":"20180910T140105Z","priority":"H","project":"paper","status":"pending","uuid":"711849fa-2e3c-4d0c-b43b-9b09329a3169"}
+{"description":"一段一行","end":"20180911T075312Z","entry":"20180910T140039Z","modified":"20180911T075312Z","priority":"H","project":"paper","status":"completed","uuid":"7fc9d8a3-9e53-4b39-994b-4db9c284dc01"}
+{"description":"统一参考文献格式","end":"20180911T123726Z","entry":"20180910T140010Z","modified":"20180911T123726Z","priority":"H","project":"paper","status":"completed","uuid":"2a6b9e81-8bc6-46cc-b916-fc41c288f482"}

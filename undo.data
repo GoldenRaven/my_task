@@ -1994,3 +1994,26 @@ time 1532958399
 old [description:"问罗老师副导师的院办手续问题" entry:"1531302298" modified:"1531302298" priority:"L" project:"note" status:"pending" uuid:"bfa392f1-e3d6-4a3a-8a13-298fde2dcb27"]
 new [description:"问罗老师副导师的院办手续问题" entry:"1531302298" modified:"1532958399" priority:"L" project:"note" start:"1532958399" status:"pending" uuid:"bfa392f1-e3d6-4a3a-8a13-298fde2dcb27"]
 ---
+time 1536587919
+new [description:"加参考文献" entry:"1536587919" modified:"1536587919" priority:"H" project:"paper" status:"pending" uuid:"43b4b636-1229-4cf8-af21-29ac226a7ca6"]
+---
+time 1536587977
+new [description:"加公式" entry:"1536587977" modified:"1536587977" priority:"H" project:"paper" status:"pending" uuid:"3d79c54d-e642-43df-af22-b4896f2bb0e5"]
+---
+time 1536588010
+new [description:"统一参考文献格式" entry:"1536588010" modified:"1536588010" priority:"H" project:"paper" status:"pending" uuid:"2a6b9e81-8bc6-46cc-b916-fc41c288f482"]
+---
+time 1536588039
+new [description:"一段一行" entry:"1536588039" modified:"1536588039" priority:"H" project:"paper" status:"pending" uuid:"7fc9d8a3-9e53-4b39-994b-4db9c284dc01"]
+---
+time 1536588065
+new [description:"加数据" entry:"1536588065" modified:"1536588065" priority:"H" project:"paper" status:"pending" uuid:"711849fa-2e3c-4d0c-b43b-9b09329a3169"]
+---
+time 1536652392
+old [description:"一段一行" entry:"1536588039" modified:"1536588039" priority:"H" project:"paper" status:"pending" uuid:"7fc9d8a3-9e53-4b39-994b-4db9c284dc01"]
+new [description:"一段一行" end:"1536652392" entry:"1536588039" modified:"1536652392" priority:"H" project:"paper" status:"completed" uuid:"7fc9d8a3-9e53-4b39-994b-4db9c284dc01"]
+---
+time 1536669446
+old [description:"统一参考文献格式" entry:"1536588010" modified:"1536588010" priority:"H" project:"paper" status:"pending" uuid:"2a6b9e81-8bc6-46cc-b916-fc41c288f482"]
+new [description:"统一参考文献格式" end:"1536669446" entry:"1536588010" modified:"1536669446" priority:"H" project:"paper" status:"completed" uuid:"2a6b9e81-8bc6-46cc-b916-fc41c288f482"]
+---
