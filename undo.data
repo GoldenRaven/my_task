@@ -2017,3 +2017,10 @@ time 1536669446
 old [description:"统一参考文献格式" entry:"1536588010" modified:"1536588010" priority:"H" project:"paper" status:"pending" uuid:"2a6b9e81-8bc6-46cc-b916-fc41c288f482"]
 new [description:"统一参考文献格式" end:"1536669446" entry:"1536588010" modified:"1536669446" priority:"H" project:"paper" status:"completed" uuid:"2a6b9e81-8bc6-46cc-b916-fc41c288f482"]
 ---
+time 1537150669
+new [description:"毕业生资格审查等" entry:"1537150669" modified:"1537150669" priority:"H" project:"graduating" status:"pending" uuid:"727a5d59-6d0a-490b-bb0a-c2ae30e055ad"]
+---
+time 1537150687
+old [description:"毕业生资格审查等" entry:"1537150669" modified:"1537150669" priority:"H" project:"graduating" status:"pending" uuid:"727a5d59-6d0a-490b-bb0a-c2ae30e055ad"]
+new [description:"毕业生资格审查等" entry:"1537150669" modified:"1537150687" priority:"H" project:"graduating" start:"1537150687" status:"pending" uuid:"727a5d59-6d0a-490b-bb0a-c2ae30e055ad"]
+---

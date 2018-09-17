@@ -135,3 +135,5 @@
 {"description":"加数据","entry":"20180910T140105Z","modified":"20180910T140105Z","priority":"H","project":"paper","status":"pending","uuid":"711849fa-2e3c-4d0c-b43b-9b09329a3169"}
 {"description":"一段一行","end":"20180911T075312Z","entry":"20180910T140039Z","modified":"20180911T075312Z","priority":"H","project":"paper","status":"completed","uuid":"7fc9d8a3-9e53-4b39-994b-4db9c284dc01"}
 {"description":"统一参考文献格式","end":"20180911T123726Z","entry":"20180910T140010Z","modified":"20180911T123726Z","priority":"H","project":"paper","status":"completed","uuid":"2a6b9e81-8bc6-46cc-b916-fc41c288f482"}
+{"description":"毕业生资格审查等","entry":"20180917T021749Z","modified":"20180917T021749Z","priority":"H","project":"graduating","status":"pending","uuid":"727a5d59-6d0a-490b-bb0a-c2ae30e055ad"}
+{"description":"毕业生资格审查等","entry":"20180917T021749Z","modified":"20180917T021807Z","priority":"H","project":"graduating","start":"20180917T021807Z","status":"pending","uuid":"727a5d59-6d0a-490b-bb0a-c2ae30e055ad"}
