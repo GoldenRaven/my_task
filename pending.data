@@ -19,4 +19,4 @@
 [description:"加参考文献" entry:"1536587919" modified:"1536587919" priority:"H" project:"paper" status:"pending" uuid:"43b4b636-1229-4cf8-af21-29ac226a7ca6"]
 [description:"加公式" entry:"1536587977" modified:"1536587977" priority:"H" project:"paper" status:"pending" uuid:"3d79c54d-e642-43df-af22-b4896f2bb0e5"]
 [description:"加数据" entry:"1536588065" modified:"1536588065" priority:"H" project:"paper" status:"pending" uuid:"711849fa-2e3c-4d0c-b43b-9b09329a3169"]
-[description:"毕业生资格审查等" due:"1537537422" entry:"1537150669" modified:"1537364622" priority:"H" project:"graduating" start:"1537150687" status:"pending" uuid:"727a5d59-6d0a-490b-bb0a-c2ae30e055ad"]
+[description:"毕业生资格审查等未审核" entry:"1537683065" modified:"1537683078" priority:"H" project:"graduating" start:"1537683078" status:"pending" uuid:"bb3c1483-702b-415c-9974-ab8d95f225f8"]
