@@ -2024,3 +2024,7 @@ time 1537150687
 old [description:"毕业生资格审查等" entry:"1537150669" modified:"1537150669" priority:"H" project:"graduating" status:"pending" uuid:"727a5d59-6d0a-490b-bb0a-c2ae30e055ad"]
 new [description:"毕业生资格审查等" entry:"1537150669" modified:"1537150687" priority:"H" project:"graduating" start:"1537150687" status:"pending" uuid:"727a5d59-6d0a-490b-bb0a-c2ae30e055ad"]
 ---
+time 1537364622
+old [description:"毕业生资格审查等" entry:"1537150669" modified:"1537150687" priority:"H" project:"graduating" start:"1537150687" status:"pending" uuid:"727a5d59-6d0a-490b-bb0a-c2ae30e055ad"]
+new [description:"毕业生资格审查等" due:"1537537422" entry:"1537150669" modified:"1537364622" priority:"H" project:"graduating" start:"1537150687" status:"pending" uuid:"727a5d59-6d0a-490b-bb0a-c2ae30e055ad"]
+---
