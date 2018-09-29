@@ -141,3 +141,5 @@
 {"description":"毕业生资格审查等","due":"20180921T134342Z","end":"20180923T061032Z","entry":"20180917T021749Z","modified":"20180923T061032Z","priority":"H","project":"graduating","status":"completed","uuid":"727a5d59-6d0a-490b-bb0a-c2ae30e055ad"}
 {"description":"毕业生资格审查等未审核","entry":"20180923T061105Z","modified":"20180923T061105Z","priority":"H","project":"graduating","status":"pending","uuid":"bb3c1483-702b-415c-9974-ab8d95f225f8"}
 {"description":"毕业生资格审查等未审核","entry":"20180923T061105Z","modified":"20180923T061118Z","priority":"H","project":"graduating","start":"20180923T061118Z","status":"pending","uuid":"bb3c1483-702b-415c-9974-ab8d95f225f8"}
+{"description":"查询卡里打印费600多报了没有","entry":"20180929T015647Z","modified":"20180929T015647Z","priority":"M","project":"note","status":"pending","uuid":"cb19f6ba-5b23-4876-b748-b6053a513358"}
+{"description":"毕业生资格审查等未审核","end":"20180929T023705Z","entry":"20180923T061105Z","modified":"20180929T023705Z","priority":"H","project":"graduating","status":"completed","uuid":"bb3c1483-702b-415c-9974-ab8d95f225f8"}

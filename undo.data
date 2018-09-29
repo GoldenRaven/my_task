@@ -2039,3 +2039,10 @@ time 1537683078
 old [description:"毕业生资格审查等未审核" entry:"1537683065" modified:"1537683065" priority:"H" project:"graduating" status:"pending" uuid:"bb3c1483-702b-415c-9974-ab8d95f225f8"]
 new [description:"毕业生资格审查等未审核" entry:"1537683065" modified:"1537683078" priority:"H" project:"graduating" start:"1537683078" status:"pending" uuid:"bb3c1483-702b-415c-9974-ab8d95f225f8"]
 ---
+time 1538186207
+new [description:"查询卡里打印费600多报了没有" entry:"1538186207" modified:"1538186207" priority:"M" project:"note" status:"pending" uuid:"cb19f6ba-5b23-4876-b748-b6053a513358"]
+---
+time 1538188625
+old [description:"毕业生资格审查等未审核" entry:"1537683065" modified:"1537683078" priority:"H" project:"graduating" start:"1537683078" status:"pending" uuid:"bb3c1483-702b-415c-9974-ab8d95f225f8"]
+new [description:"毕业生资格审查等未审核" end:"1538188625" entry:"1537683065" modified:"1538188625" priority:"H" project:"graduating" status:"completed" uuid:"bb3c1483-702b-415c-9974-ab8d95f225f8"]
+---
